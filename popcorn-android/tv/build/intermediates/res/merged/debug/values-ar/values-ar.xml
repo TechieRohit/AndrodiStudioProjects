@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="a_to_z">A - Z</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="about_app">حول</string>
+    <string name="about_message">بوب كورن تايم هو مشروع مفتوح المصدر لجعل مشاهدة أفلام التورنت سهلة بقدر ما يمكن .
+نحن مجموعة من المبرمجين والمصممين من جميع أنحاء العالم، نحب الأفلام ، وبالتأكيد نحب الفشار .</string>
+    <string name="about_series">حول</string>
+    <string name="accept">قبول</string>
+    <string name="advanced">إعدادات متقدمة</string>
+    <string name="aired">تاريخ العرض: %s</string>
+    <string name="auto_updates">تحديثات تلقائية</string>
+    <string name="beaming_failed">لم نتمكن من عرض هذا الفيديو على جهازك المشترك ، هل تريد المحاولة مرة أخرى ؟ من الممكن ان التطبيق يحتاج لتنزيل المزيد من الأجزاء على جهازك ليتمكن من عرض الفيديو.</string>
+    <string name="best_fit">ملئ الشاشة</string>
+    <string name="blog">المدونة</string>
+    <string name="brightness">السطوع</string>
+    <string name="browse">استعرض</string>
+    <string name="cancel">إلغاء</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"تم الاتصال بـ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"جارٍ الاتصال بـ <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"إلغاء الربط"</string>
+    <string name="changelog">ما الجديد</string>
+    <string name="check_for_updates">البحث عن التحديثات</string>
+    <string name="choose_quality">اختيار الجودة</string>
+    <string name="close">إغلاق</string>
+    <string name="comm_error">خطأ في الإتصال</string>
+    <string name="comm_message">حدث خطأ أثناء محاولة الحصول على الفيديو، من الممكن أن يحدث هذا بسبب مشكلة في الشبكة أو اليوتيوب . فضلاً أعد المحاولة في وقت لاحق.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تمكين"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تمكين خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تمكين خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. الرجاء إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="confirm_tv">فضلا قم بتأكيد الإتصال في التلفزيون</string>
+    <string name="connected_to">متصل بـ</string>
+    <string name="continuing">العرض مستمر</string>
+    <string name="default_player">مشغل الفيديو الإفتراضي</string>
+    <string name="default_view">الشاشة الرئيسية</string>
+    <string name="device_language">لغة الجهاز</string>
+    <string name="dht_limit">DHT limit</string>
+    <string name="disabled">معطل</string>
+    <string name="disconnect">قطع الاتصال</string>
+    <string name="download_speed">سرعة التنزيل القصوى</string>
+    <string name="drawer_close">أغلق شريط التنقل</string>
+    <string name="drawer_open">إفتح شريط التنقل</string>
+    <string name="enabled">مفعل</string>
+    <string name="encountered_error">مشغل الفيديو واجه خطأ. ملف الفيديو لا يَمكن فتحه و/أو تشغيله. لم يتم التعرف على الصيغة.</string>
+    <string name="encountered_error_title">طرأ خطأ في الفيديو</string>
+    <string name="ended">انتهى</string>
+    <string name="enter_pairing_code">أدخل كود الإقتران في التلفزيون</string>
+    <string name="episode">الحلقة</string>
+    <string name="error">خطأ</string>
+    <string name="error_files">خطأ في كتابة الملفات</string>
+    <string name="facebook">فيسبوك</string>
+    <string name="fastforward">تقديم سريع</string>
+    <string name="fill">ملئ</string>
+    <string name="fit_horizontal">أفقي</string>
+    <string name="fit_vertical">عمودي</string>
+    <string name="forum">المنتدى</string>
+    <string name="general">عام</string>
+    <string name="genre_action">أكشن</string>
+    <string name="genre_adventure">مغامرة</string>
+    <string name="genre_all">الكل</string>
+    <string name="genre_animation">رسوم متحركة</string>
+    <string name="genre_biography">سيرة ذاتية</string>
+    <string name="genre_cars">سيارات</string>
+    <string name="genre_children">أطفال</string>
+    <string name="genre_comedy">كوميدي</string>
+    <string name="genre_crime">جريمة</string>
+    <string name="genre_dementia">رسوم مهتمة بالجانب العقلي</string>
+    <string name="genre_demons">الشياطين</string>
+    <string name="genre_documentary">وثائقي</string>
+    <string name="genre_drama">دراما</string>
+    <string name="genre_ecchi">ايشي</string>
+    <string name="genre_family">عائلي</string>
+    <string name="genre_fantasy">خيال</string>
+    <string name="genre_film_noir">أبيض وأسود</string>
+    <string name="genre_game">لعبة</string>
+    <string name="genre_game_show">مسابقات</string>
+    <string name="genre_harem">حريم</string>
+    <string name="genre_history">تاريخي</string>
+    <string name="genre_home_garden">البيت والحديقة</string>
+    <string name="genre_horror">رعب</string>
+    <string name="genre_josei">أنِمي نسائية</string>
+    <string name="genre_kids">أطفال</string>
+    <string name="genre_magic">سحري</string>
+    <string name="genre_martial_arts">الفنون القتالية</string>
+    <string name="genre_mecha">أنِمي الخيال العلمي</string>
+    <string name="genre_military">عسكري</string>
+    <string name="genre_mini_series">سلسلة قصيرة</string>
+    <string name="genre_music">موسيقى</string>
+    <string name="genre_musical">موسيقي</string>
+    <string name="genre_mystery">غموض</string>
+    <string name="genre_news">أخبار</string>
+    <string name="genre_parody">محاكاة ساخرة</string>
+    <string name="genre_police">الشرطة</string>
+    <string name="genre_psychological">نفساني</string>
+    <string name="genre_reality">واقعي</string>
+    <string name="genre_romance">رومانسي</string>
+    <string name="genre_samurai">ساموراي</string>
+    <string name="genre_school">مدرسي</string>
+    <string name="genre_sci_fi">خيال علمي</string>
+    <string name="genre_seinen">أنِمي الكبار</string>
+    <string name="genre_short">قصير</string>
+    <string name="genre_shoujo">أنِمي الشابات</string>
+    <string name="genre_shoujo_ai">أنِمي الشابات عاطفي</string>
+    <string name="genre_shounen">أنِمي الشباب</string>
+    <string name="genre_shounen_ai">أنِمي الشباب عاطفي</string>
+    <string name="genre_slice_of_life">حياة واقعية</string>
+    <string name="genre_soap">مسرحيات متسلسلة</string>
+    <string name="genre_space">فضاء</string>
+    <string name="genre_special_interest">إهتمامات خاصة</string>
+    <string name="genre_sport">رياضي</string>
+    <string name="genre_super_power">قُوى خارقة</string>
+    <string name="genre_supernatural">خارق للعادة</string>
+    <string name="genre_suspense">تشويق</string>
+    <string name="genre_talk_show">برنامج حواري</string>
+    <string name="genre_thriller">إثارة</string>
+    <string name="genre_vampire">مصاص الدماء</string>
+    <string name="genre_war">حرب</string>
+    <string name="genre_western">غربي</string>
+    <string name="genres">الانواع</string>
+    <string name="git">Git</string>
+    <string name="google_plus">قوقل بلس</string>
+    <string name="hardware_acceleration_error_message">حدث خطأ في تسارع الجهاز. هل ترغب بتعطيله والمحاولة مرة اخرى؟</string>
+    <string name="hardware_acceleration_error_title">خطأ في تسارع الجهاز</string>
+    <string name="hw_acceleration">تسارع الجهاز</string>
+    <string name="hw_automatic">تلقائي</string>
+    <string name="hw_decoding">فك الترميز فقط</string>
+    <string name="hw_full">كامل</string>
+    <string name="i18n_language">لغة التطبيق</string>
+    <string name="init_text">00:00</string>
+    <string name="internal_player">داخلي</string>
+    <string name="last_check">آخر بحث</string>
+    <string name="last_updated">آخر تحديث</string>
+    <string name="later">لا، لاحقا</string>
+    <string name="latest_shows">آخر المسلسلات</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"/"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"متابعة"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"إنهاء"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"قائمة التنقل"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"التالية"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"البدء"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"تعطيل الترجمة المصاحبة"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"تمكين الترجمة المصاحبة"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"تقديم سريع"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"‏التقديم السريع %1$dX"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"تعطيل الجودة العالية"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"تمكين الجودة العالية"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"مزيد من الإجراءات"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"إيقاف مؤقت"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"إدخال صورة في وضع الصورة"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"تشغيل"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"تكرار الكل"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"عدم التكرار"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"تكرار مقطع واحد"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"إرجاع"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"‏الترجيع %1$dX"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"تعطيل الترتيب العشوائي"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"تمكين الترتيب العشوائي"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"تخطي التالي"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"تخطي السابق"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"إلغاء تحديد زر \"لم يعجبني\""</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"تحديد زر \"لم يعجبني\""</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"إلغاء تحديد زر \"أعجبني\""</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"تحديد زر \"أعجبني\""</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"بحث"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"التحدث  للبحث"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"بحث في <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"تحدّث للبحث في <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">":"</string>
+    <string name="leave">مغادرة</string>
+    <string name="leave_videoplayer_message">هل انت متاكد من انك تريد مغادرة مشغل الفيديو ؟ %s سيتوقف عن العرض.</string>
+    <string name="leave_videoplayer_title">هل أنت متأكد ؟</string>
+    <string name="loading">يتم التحميل…</string>
+    <string name="loading_data">تحميل البيانات…</string>
+    <string name="loading_details">تحميل التفاصيل…</string>
+    <string name="loading_movies">تحميل الأفلام…</string>
+    <string name="loading_shows">تحميل المسلسلات…</string>
+    <string name="loading_subs">تحميل الترجمة…</string>
+    <string name="magnet">ماجنت</string>
+    <string name="max_connections">عدد الإتصالات القصوى</string>
+    <string name="minutes">دقيقة</string>
+    <string name="more">أكثر</string>
+    <string name="more_movies">أفلام أكثر</string>
+    <string name="movie">فيلم</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"زر الإرسال"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"زر الإرسال. تم الاتصال"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"زر الإرسال. جارٍ الاتصال"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"زر الإرسال. تم قطع الاتصال"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"جارٍ البحث عن أجهزة"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"إرسال إلى"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"صورة الألبوم"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"جارٍ إرسال الشاشة"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"إغلاق"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"تصغير"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"قطع الاتصال"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"توسيع"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"لا تتوفر أية معلومات"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"لم يتم اختيار أية وسائط"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"إيقاف مؤقت"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"تشغيل"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"إيقاف الإرسال"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"شريط تمرير مستوى الصوت"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"النظام"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"الأجهزة"</string>
+    <string name="network_message">إفحص إتصالك بالأنترنت</string>
+    <string name="new_update">نسخة جديدة من Popcorn Time for Android TV متاحة الآن. هل تريد التحديث الآن؟</string>
+    <string name="no_data_found">لم يتم العثور على بيانات</string>
+    <string name="no_default_set">لا توجد لغة إفتراضية</string>
+    <string name="no_search_results">لم يتم العثور على نتائج</string>
+    <string name="no_subs">بدون ترجمة</string>
+    <string name="no_subs_available">لا تتوفر ترجمة</string>
+    <string name="no_synopsis_available">الملخص غير متوفر</string>
+    <string name="no_title_available">بدون إسم</string>
+    <string name="no_video_found">لم يعثر على أي فيديو</string>
+    <string name="not_writable">الموقع غير قابل للكتابة</string>
+    <string name="now">نعم</string>
+    <string name="now_playing">يعرض الآن</string>
+    <string name="ok">حسنا</string>
+    <string name="open_source_licenses">تراخيص مفتوحة المصدر</string>
+    <string name="open_with">فتح بإستخدام</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"إجراء البحث"</string>
+    <string name="original_size">الأصلي</string>
+    <string name="overview_not_available">عذرا ! لا تتوفر معاينة</string>
+    <string name="pairing_tv">اقتران مع التلفزيون</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="personal_settings">الإعدادات الشخصية</string>
+    <string name="pixel_format">Force video chroma</string>
+    <string name="play">تشغيل</string>
+    <string name="play_pause_description">زر إيقاف/تشغيل</string>
+    <string name="popular">الأكثر شهرة</string>
+    <string name="popular_header">أشهر الفيديوهات</string>
+    <string name="possibly_dangerous">تم العبث بهذه النسخة من بوب كورن تايم . رجاءًا قم بتحميل التطبيق من http://butterproject.org/</string>
+    <string name="preferences">الإعدادات</string>
+    <string name="press_install">إضغط للتثبيت</string>
+    <string name="quality">الجودة</string>
+    <string name="quality_1080">1080p</string>
+    <string name="quality_720">720p</string>
+    <string name="read_more">إقرأ المزيد</string>
+    <string name="related_movies">فيديوهات لها علاقة</string>
+    <string name="release_date">تاريخ الإضافة</string>
+    <string name="reload_video">إعادة تحميل الفيديو</string>
+    <string name="remove_cache">حذف الملفات المؤقتة عند إغلاق المشغل</string>
+    <string name="report_a_bug">الإبلاغ عن مشكلة</string>
+    <string name="restart_effect">أعد تشغيل التطبيق لتطبيق التغييرات</string>
+    <string name="rewind">ترجيع</string>
+    <string name="rgb16">RGB 16-bit: better performance, lower quality</string>
+    <string name="rgb32">RGB 32-bit: default chroma</string>
+    <string name="running">التشغيل في الخلفية</string>
+    <string name="search">بحث</string>
+    <string name="search_hint">العنوان, السنة, الممثلون</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string name="searching">جاري البحث…</string>
+    <string name="season">الموسم</string>
+    <string name="seeds">موزع</string>
+    <string name="select_beaming">إختر جهازاً للمشاركة</string>
+    <string name="select_file">اختر ملف</string>
+    <string name="settings">الإعدادات</string>
+    <string name="show_vpn">إظهار خيار ال VPN في القائمة</string>
+    <string name="signature_invalid">توقيع التطبيق غير صالح</string>
+    <string name="specials">خاصة</string>
+    <string name="start_external">إبدأ بمشغل وسائط خارجي</string>
+    <string name="starting_buffering">بدأ التخزين المؤقت</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="stop">إيقاف</string>
+    <string name="storage_automatic">تلقائي</string>
+    <string name="storage_choose">إختر الموقع</string>
+    <string name="storage_location">مكان الحفظ</string>
+    <string name="stream_over_wifi_only">المشاهدة عبر الواي فاي فقط</string>
+    <string name="streaming_started">بدأ العرض</string>
+    <string name="subtitle_color">اللون</string>
+    <string name="subtitle_settings">اعدادات الترجمة</string>
+    <string name="subtitle_size">الحجم</string>
+    <string name="subtitle_stroke_color">لون الحد الخارجي</string>
+    <string name="subtitle_stroke_width">عرض الحد الخارجي</string>
+    <string name="subtitle_timing">توقيت الترجمة</string>
+    <string name="subtitles">الترجمة</string>
+    <string name="tap_to_close">انقر للإغلاق</string>
+    <string name="tap_to_open">أنقر للفتح</string>
+    <string name="tap_to_resume">انقر للمتابعة</string>
+    <string name="terms_and_conditions">القوانين والشروط</string>
+    <string name="tests">إختبارات</string>
+    <string name="the_video">الفيديو</string>
+    <string name="title_anime">انمي</string>
+    <string name="title_movies">أفلام</string>
+    <string name="title_shows">مسلسلات</string>
+    <string name="top_movies">أفضل الأفلام</string>
+    <string name="top_rated">الأعلى تقييم</string>
+    <string name="top_shows">أفضل المسلسلات</string>
+    <string name="torrent_failed">فشل في جلب التورنت</string>
+    <string name="torrents">تورنت</string>
+    <string name="trailer">إعلان الفلم</string>
+    <string name="trending">الأكثر رواجا</string>
+    <string name="twitter">تويتر</string>
+    <string name="unknown_error">حدث خطأ ما</string>
+    <string name="unlimited">غير محدود</string>
+    <string name="update_available">تحديث جديد متوفر</string>
+    <string name="updates">التحديثات</string>
+    <string name="upload_speed">سرعة الرفع القصوى</string>
+    <string name="version">النسخة</string>
+    <string name="version_pref">النسخة</string>
+    <string name="video_error_unknown_error">فشل تحميل الفيديو</string>
+    <string name="volume">الصوت</string>
+    <string name="vpn">VPN</string>
+    <string name="waiting_for_subtitles">في إنتظار الترجمة</string>
+    <string name="waiting_torrent">في انتظار التورنت</string>
+    <string name="watch">شاهد</string>
+    <string name="watch_trailer">شاهد الإعلان</string>
+    <string name="watch_trailer_1">شاهد الإعلان</string>
+    <string name="watch_trailer_2">مجاني</string>
+    <string name="website">الموقع</string>
+    <string name="wifi_only">واي فاي فقط</string>
+    <string name="wifi_only_message">يمكنك مشاهدة الفيديوهات عبر الواي فاي فقط. بإمكانك تعديل هذا الخيار في الإعدادات إذا كنت تريد المشاهدة عبر شبكة الهاتف المحمول.</string>
+    <string name="year">السنة</string>
+    <string name="yuv">YUV: best performance but does not always work</string>
+</resources>

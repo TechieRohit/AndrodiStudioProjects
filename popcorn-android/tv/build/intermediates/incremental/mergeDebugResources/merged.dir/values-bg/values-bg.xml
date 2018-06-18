@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="a_to_z">А - Я</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Придвижване към „Начало“"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"„%1$s“ – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"„%1$s“, „%2$s“ – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Придвижване нагоре"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Още опции"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Вижте всички"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Изберете приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ИЗКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Търсете…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Изчистване на заявката"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Заявка за търсене"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Търсене"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Изпращане на заявката"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Гласово търсене"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Споделяне със: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
+    <string name="about_app">Относно</string>
+    <string name="about_message">Popcorn Time е продукт на много разработчици и дизайнери, които събраха няколко API-та на едно място,
+за да направят гледането на торент филми, колкото се може по-просто.\n\nНие сме проект с открит сорс код. Ние сме от цял свят. Ние
+обичаме нашите филми. И със сигурност обичаме пуканки!</string>
+    <string name="about_series">Относно</string>
+    <string name="accept">Приеми</string>
+    <string name="advanced">Разширени</string>
+    <string name="aired">Излъчено на: %s</string>
+    <string name="auto_updates">Автоматични обновления</string>
+    <string name="beaming">Излъчване</string>
+    <string name="beaming_failed">Видеото не може да се възпроизведе на устройството, на което се излъчва. Желаете ли да опитате отново? Приложението може да трябва да изтегли още части преди вашето устройство да има възможност да възпроизведе видеото.</string>
+    <string name="best_fit">Най-добре побрано</string>
+    <string name="blog">Блог</string>
+    <string name="brightness">Контраст</string>
+    <string name="browse">Сърфирай</string>
+    <string name="cancel">Откажи</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Установена е връзка с/ъс „<ns1:g id="NAME">%1$s</ns1:g>“"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Установява се връзка с/ъс „<ns1:g id="NAME">%1$s</ns1:g>“"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Прекратяване на връзката"</string>
+    <string name="changelog">Дневник на промените</string>
+    <string name="check_for_updates">Провери за обновления</string>
+    <string name="choose_quality">Избери качество</string>
+    <string name="close">Затвори</string>
+    <string name="comm_error">Проблем с комуникациите</string>
+    <string name="comm_message">Стана грешка по време на изземането на видеото. Това може да е заради проблеми с връзката или YouTube протоколи. Моля опитайте пак по-късно.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Активиране"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да работи, освен ако не активирате услугите за Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Активиране на услугите за Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Инсталиране"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява, тъй като услугите за Google Play не са инсталирани на устройството ви."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Изтегляне на услугите за Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Грешка в услугите за Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> има проблеми с услугите за Google Play. Моля, опитайте отново."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява, тъй като услугите за Google Play не се поддържат от устройството ви."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Актуализиране"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява, освен ако не актуализирате услугите за Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Актуализиране на услугите за Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява без услугите за Google Play. Понастоящем те се актуализират."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Необходима е нова версия на услугите за Google Play. Скоро тя ще се актуализира автоматично."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Отваряне на телефона"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Вход"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Вход с Google"</string>
+    <string name="confirm_tv">Моля потвърдете връзката на вашият ТВ</string>
+    <string name="connected_to">Свързан към</string>
+    <string name="continuing">Продължаващи</string>
+    <string name="default_player">Начален видео плейър</string>
+    <string name="default_subtitle_language">Език по подразбиране</string>
+    <string name="default_view">Начален изглед</string>
+    <string name="device_language">Език на устройството</string>
+    <string name="dht_limit">DHT ограничение</string>
+    <string name="disabled">Изключено</string>
+    <string name="disconnect">Изключи</string>
+    <string name="download_speed">Максимално скорост на теглене</string>
+    <string name="drawer_close">Затвори навигационно чекмедже</string>
+    <string name="drawer_open">Отвори навигационно чекмедже</string>
+    <string name="enabled">Включено</string>
+    <string name="encountered_error">Възникна сериозна грешка с видеоплейърът. Видео файлът не може да бъде отворен и/или възпроизведен. Форматът не бе разпознат.</string>
+    <string name="encountered_error_title">Възникна грешка с видеото</string>
+    <string name="ended">Приключил</string>
+    <string name="enter_pairing_code">Въведете сдвояващ код на ТВ</string>
+    <string name="episode">Епизод</string>
+    <string name="episode_number_format">Епизод %d</string>
+    <string name="error">Грешка</string>
+    <string name="error_files">Грешка: Файловете не можаха да бъдат записани</string>
+    <string name="facebook">Facebook</string>
+    <string name="fastforward">Превърти напред</string>
+    <string name="fill">Запълни</string>
+    <string name="fit_horizontal">Побери хоризонтално</string>
+    <string name="fit_vertical">Побери вертикално</string>
+    <string name="forum">Форум</string>
+    <string name="general">Общи</string>
+    <string name="genre_action">Екшън</string>
+    <string name="genre_adventure">Приключенски</string>
+    <string name="genre_all">Всички</string>
+    <string name="genre_animation">Анимационни</string>
+    <string name="genre_biography">Биографични</string>
+    <string name="genre_cars">Коли</string>
+    <string name="genre_children">Детски</string>
+    <string name="genre_comedy">Комедии</string>
+    <string name="genre_crime">Криминале</string>
+    <string name="genre_dementia">Дименция</string>
+    <string name="genre_demons">Демони</string>
+    <string name="genre_documentary">Документални</string>
+    <string name="genre_drama">Драма</string>
+    <string name="genre_ecchi">Ечи</string>
+    <string name="genre_family">Семейни</string>
+    <string name="genre_fantasy">Фантастика</string>
+    <string name="genre_film_noir">Филм-ноар</string>
+    <string name="genre_game">Игра</string>
+    <string name="genre_game_show">Tелевизионна игра</string>
+    <string name="genre_harem">Харем</string>
+    <string name="genre_history">Исторически</string>
+    <string name="genre_home_garden">Дом и Градина</string>
+    <string name="genre_horror">Ужаси</string>
+    <string name="genre_josei">Джосей</string>
+    <string name="genre_kids">Детски</string>
+    <string name="genre_magic">Магически</string>
+    <string name="genre_martial_arts">Бойни изкуства</string>
+    <string name="genre_mecha">Мека</string>
+    <string name="genre_military">Военни</string>
+    <string name="genre_mini_series">Мини-сериали</string>
+    <string name="genre_music">Музикални</string>
+    <string name="genre_musical">Мюзикъл</string>
+    <string name="genre_mystery">Мистерии</string>
+    <string name="genre_news">Новини</string>
+    <string name="genre_parody">Пародия</string>
+    <string name="genre_police">Полицейски</string>
+    <string name="genre_psychological">Психологически</string>
+    <string name="genre_reality">Риалити</string>
+    <string name="genre_romance">Романтични</string>
+    <string name="genre_samurai">Самурайски</string>
+    <string name="genre_school">Училищно</string>
+    <string name="genre_sci_fi">Научна фантастика</string>
+    <string name="genre_seinen">Сейнен</string>
+    <string name="genre_short">Късометражни</string>
+    <string name="genre_shoujo">Шоуджо</string>
+    <string name="genre_shoujo_ai">Шоуджо-ай</string>
+    <string name="genre_shounen">Шоунен</string>
+    <string name="genre_shounen_ai">Шоунен-ай</string>
+    <string name="genre_slice_of_life">Житейско</string>
+    <string name="genre_soap">Сапунка</string>
+    <string name="genre_space">Космическо</string>
+    <string name="genre_special_interest">Специализирани интереси</string>
+    <string name="genre_sport">Спортни</string>
+    <string name="genre_super_power">Супер сили</string>
+    <string name="genre_supernatural">Супер естествено</string>
+    <string name="genre_suspense">Съспенс</string>
+    <string name="genre_talk_show">Ток-шоу</string>
+    <string name="genre_thriller">Трилъри</string>
+    <string name="genre_vampire">Вампири</string>
+    <string name="genre_war">Военни</string>
+    <string name="genre_western">Уестърни</string>
+    <string name="genres">Жанрове</string>
+    <string name="git">Git</string>
+    <string name="google_plus">Google+</string>
+    <string name="grid_view">Табличен изглед</string>
+    <string name="hardware_acceleration_error_message">Стана грешка с хардуерното ускорение. Искате ли да го изключите и пробвате наново?</string>
+    <string name="hardware_acceleration_error_title">Грешка в хардуерното ускорение</string>
+    <string name="health_bad">Лошо</string>
+    <string name="health_excellent">Отлично</string>
+    <string name="health_good">Добро</string>
+    <string name="health_info">Здраве: %1$s, Сийдъри: %2$d, Пиъри: %3$d</string>
+    <string name="health_medium">Средно</string>
+    <string name="health_unknown">Неизвестно</string>
+    <string name="hw_acceleration">Хардуерно ускорение</string>
+    <string name="hw_automatic">Автоматично</string>
+    <string name="hw_decoding">Само декодиращо</string>
+    <string name="hw_full">Пълно</string>
+    <string name="i18n_language">Език на приложението</string>
+    <string name="init_text">00:00</string>
+    <string name="internal_player">Вътрешен</string>
+    <string name="last_check">Последно проверено</string>
+    <string name="last_updated">ПОСЛЕДНО ОБНОВЕНО</string>
+    <string name="later">Не, по-късно</string>
+    <string name="latest_shows">Най-нови сериали</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"/"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"Напред"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"Край"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"Меню за навигация"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"Напред"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"ПЪРВИ СТЪПКИ"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"Деактивиране на субтитрите"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"Активиране на субтитрите"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"Превъртане напред"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"Превъртане напред със скорост %1$dX"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"Деактивиране на високото качество"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"Активиране на високото качество"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"Още действия"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"Поставяне на пауза"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"Вход в режима „Картина в картина“"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"Пускане"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"Повтаряне на всички"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"Без повтаряне"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"Повтаряне на един елемент"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"Превъртане назад"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"Превъртане назад със скорост %1$dX"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"Деактивиране на разбъркването"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"Активиране на разбъркването"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"Напред към следващия елемент"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"Назад към предишния елемент"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"Премахване на избора от „Не ми харесва“"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"Избиране на „Не ми харесва“"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"Премахване на избора от „Харесва ми“"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"Избиране на „Харесва ми“"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"Търсете"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"Говорете, за да търсите"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"Търсете в/ъв <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"Говорете, за да търсите във: <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">":"</string>
+    <string name="leave">Напусни</string>
+    <string name="leave_videoplayer_message">Сигурни ли сте, че искате да напуснете видеоплейъра? %s ще спре да се възпроизвежда. </string>
+    <string name="leave_videoplayer_title">Сигурен ли сте?</string>
+    <string name="loading">Зареждане…</string>
+    <string name="loading_data">Зареждане на данни…</string>
+    <string name="loading_details">Зареждани на детайли…</string>
+    <string name="loading_movies">Зареждане на филми…</string>
+    <string name="loading_shows">Зареждане на сериали…</string>
+    <string name="loading_subs">Зареждане на субтитри…</string>
+    <string name="magnet">Магнит</string>
+    <string name="max_connections">Максимални общо връзки</string>
+    <string name="minutes">мин</string>
+    <string name="more">Още</string>
+    <string name="more_movies">Още филми</string>
+    <string name="more_shows">Още сериали</string>
+    <string name="movie">Филм</string>
+    <string name="movie_results">Резултати за филми</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Бутон за предаване"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Бутон за предаване. Установена е връзка"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Бутон за предаване. Свързва се"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Бутон за предаване. Връзката е прекратена"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Търсят се устройства"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Предаване към"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Обложка на албума"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Екранът се предава"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Затваряне"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Свиване"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Прекратяване на връзката"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Разгъване"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Няма налична информация"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Няма избрана мултимедия"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Поставяне на пауза"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Пускане"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Спиране на предаването"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Плъзгач за силата на звука"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Система"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Устройства"</string>
+    <string name="network_message">Моля проверете вашата интернет връзка</string>
+    <string name="new_update">Нова версия на Popcorn Time за Android TV е налична. Искате ли да обновите сега?</string>
+    <string name="no_data_found">Не са открити данни</string>
+    <string name="no_default_set">Без език по подразбиране</string>
+    <string name="no_search_results">Няма открити резултати</string>
+    <string name="no_subs">Няма субтитри</string>
+    <string name="no_subs_available">Няма налични субтитри</string>
+    <string name="no_synopsis_available">Няма налично резюме</string>
+    <string name="no_title_available">Без име</string>
+    <string name="no_video_found">Не бе открито видео</string>
+    <string name="not_writable">Местоположението не е достъпно за запис</string>
+    <string name="now">Да</string>
+    <string name="now_playing">Сега се възпроизвежда</string>
+    <string name="ok">ОК</string>
+    <string name="oops">Опа</string>
+    <string name="open_source_licenses">Лицензи с отворен код</string>
+    <string name="open_with">Отвори с/със</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"Действие за търсене"</string>
+    <string name="original_size">Оригинално</string>
+    <string name="overview_not_available">Съжаляваме! Няма наличен обзорен изглед.</string>
+    <string name="pairing_tv">Сдвояване с ТВ</string>
+    <string name="pause">Пауза</string>
+    <string name="personal_settings">Лични настройки</string>
+    <string name="pixel_format">Принудително оцветяване на видеото</string>
+    <string name="play">Възпроизвеждане</string>
+    <string name="play_pause_description">Възпроизведи Сложи на пауза бутон</string>
+    <string name="popular">ПОПУЛЯРНИ</string>
+    <string name="popular_header">Популярни видеа</string>
+    <string name="possibly_dangerous">Popcorn Time е бил подправен. Моля изтеглете нов инсталационен файл от http://butterproject.org/</string>
+    <string name="preferences">Предпочитания</string>
+    <string name="press_install">Цъкни, за да инсталираш</string>
+    <string name="quality">Качество</string>
+    <string name="quality_1080">1080p</string>
+    <string name="quality_720">720p</string>
+    <string name="read_more">Прочети още</string>
+    <string name="related_movies">Свързани видеа</string>
+    <string name="release_date">ДАТА НА ИЗЛИЗАНЕ</string>
+    <string name="reload_video">Презареди видео</string>
+    <string name="remove_cache">Премахвай кеша при затваряне на плейъра</string>
+    <string name="report_a_bug">Докладвай за бъг</string>
+    <string name="restart_effect">Рестартирайте приложението, за да видите промените</string>
+    <string name="rewind">Превърти назад</string>
+    <string name="rgb16">RGB 16-бита: по-добро изпълнение, по-ниско качество</string>
+    <string name="rgb32">RGB 32-бита: стандартни цветове</string>
+    <string name="running">Върви на фон</string>
+    <string name="scale">Размер</string>
+    <string name="search">Търси</string>
+    <string name="search_hint">Заглавие, година, актьори</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Търсене"</string>
+    <string name="search_results">Резултати от търсенето</string>
+    <string name="searching">Търсене…</string>
+    <string name="season">Сезон</string>
+    <string name="seeds">сийдъри</string>
+    <string name="select_beaming">Изберете устройство за излъчване</string>
+    <string name="select_file">Избери файл</string>
+    <string name="settings">Настройки</string>
+    <string name="show_results">Резултати за сериали</string>
+    <string name="show_vpn">Показвай VPN опцията в менюто</string>
+    <string name="signature_invalid">Подписа на приложението е невалиден</string>
+    <string name="specials">Специални издания</string>
+    <string name="start_external">Стартирай външният плейър</string>
+    <string name="starting_beam">Начало на излъчване на видеото…</string>
+    <string name="starting_buffering">Започване на буферирането </string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">Спри</string>
+    <string name="storage_automatic">Автоматично</string>
+    <string name="storage_choose">Избери местоположение</string>
+    <string name="storage_location">Място на съхранение</string>
+    <string name="stream_over_wifi_only">Стриймвай само при Wi-Fi</string>
+    <string name="streaming_started">Стриймването започна</string>
+    <string name="subtitle_color">Цвят</string>
+    <string name="subtitle_language">Език на субтитри</string>
+    <string name="subtitle_settings">Настройки на субтитрите</string>
+    <string name="subtitle_size">Размер</string>
+    <string name="subtitle_stroke_color">Очертание на цвят</string>
+    <string name="subtitle_stroke_width">Очертание на широчина</string>
+    <string name="subtitle_timing">Синхронизиране на субтитрите</string>
+    <string name="subtitles">Субтитри</string>
+    <string name="tap_to_close">Цъкни, за да затвориш</string>
+    <string name="tap_to_open">Цъкни, за да отвориш</string>
+    <string name="tap_to_resume">Цъкни, за да продължиш</string>
+    <string name="terms_and_conditions">Правила и условия</string>
+    <string name="tests">Тестове</string>
+    <string name="the_video">Видеото</string>
+    <string name="title_anime">Аниме</string>
+    <string name="title_movies">Филми</string>
+    <string name="title_shows">Сериали</string>
+    <string name="top_movies">Топ филми</string>
+    <string name="top_rated">НАЙ-ХАРЕСВАНИ</string>
+    <string name="top_shows">Топ сериали</string>
+    <string name="torrent_failed">Неуспешно изтегляне на торента</string>
+    <string name="torrents">Торенти</string>
+    <string name="trailer">Трейлър</string>
+    <string name="trending">ТЕНДЕНЦИИ</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_error">Нещо се обърка</string>
+    <string name="unlimited">Неограничени</string>
+    <string name="update_available">Има нова версия</string>
+    <string name="updates">Обновления</string>
+    <string name="upload_speed">Максимална скорост на качване</string>
+    <string name="version">Версия</string>
+    <string name="version_pref">Версия</string>
+    <string name="video_error_media_load_timeout">Времето за зареждане на медия изтече</string>
+    <string name="video_error_server_unaccessible">Сървърът на медията не бе достигнат</string>
+    <string name="video_error_unknown_error">Провал при зареждане на видеото</string>
+    <string name="view_terms">Прегледай правила</string>
+    <string name="volume">Сила на звука</string>
+    <string name="vpn">VPN</string>
+    <string name="waiting_for_subtitles">Изчакване за субтитри</string>
+    <string name="waiting_torrent">Изчакване за торент</string>
+    <string name="watch">Гледай</string>
+    <string name="watch_trailer">Изгледай трейлър</string>
+    <string name="watch_trailer_1">Изгледай трейлър</string>
+    <string name="watch_trailer_2">БЕЗПЛАТНО</string>
+    <string name="website">Уебсайт</string>
+    <string name="wifi_only">Само чрез Wi-Fi</string>
+    <string name="wifi_only_message">Може да стриймвате видеа само чрез Wi-Fi. Може да изключите това в \"предпочитания\" в случай, че искате да стриймвате чрез мобилна връзка.</string>
+    <string name="wrong_abi">Опа! Използвате грешната версия на Popcorn Time за Андроид. Правилната версия се тегли сега, ако е възможно. Ако инсталаторът не се стартира до мината, тогава вашето устройство не се поддържа или интернет връзката ви е развалена, което означава, че ще трябва да опитате отново по-късно. Ако инсталаторът се провали, ще трябва да инсталирате правилната версия ръчно.</string>
+    <string name="year">ГОДИНА</string>
+    <string name="yuv">YUV: най-добро изпълнение, но не винаги работи</string>
+</resources>

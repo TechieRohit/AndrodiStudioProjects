@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="net.rdrei.android.dirchooser:library-3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobile/build/intermediates/exploded-aar/net.rdrei.android.dirchooser/library/3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/mobile/build/intermediates/exploded-aar/net.rdrei.android.dirchooser/library/3.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.rdrei.android.dirchooser/library/3.0/8a51387c53992189dedb2e0ed645b39523a4270f/library-3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

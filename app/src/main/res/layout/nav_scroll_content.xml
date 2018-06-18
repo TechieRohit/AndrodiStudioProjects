@@ -1,0 +1,266 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    style="@style/Theme.Transparent"
+    android:fitsSystemWindows="true">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:background="@color/black"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_marginTop="40dp"
+            android:layout_width="140dp"
+            android:src="@drawable/nav_header_logo"
+            android:scaleType="centerInside"
+            android:layout_height="120dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_marginTop="40dp"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:scaleType="fitStart"
+                android:layout_gravity="bottom"
+                android:paddingLeft="15dp"
+                android:src="@drawable/logo"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:textColor="@color/grey_100"
+                android:gravity="top"
+                android:text="Version 3.2"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/link"
+                android:layout_marginTop="15dp"
+                android:textColor="@color/white"
+                android:paddingLeft="15dp"
+                android:textSize="8sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/facebook_t"
+                    android:padding="10dp"
+                    android:layout_weight="1"/>
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/twitter"
+                    android:padding="10dp"
+                    android:layout_weight="1"/>
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/youtube_s"
+                    android:padding="7dp"
+                    android:layout_weight="1"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/nav_menu_categories"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="12dp"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/imaeView18"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight=".7"
+                android:paddingBottom="9dp"
+                android:paddingLeft="8dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/baseline_favorite_white_36dp" />
+
+            <TextView
+                android:id="@+id/texView71"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="2.3"
+                android:gravity="center_vertical"
+                android:text="Favorites"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/nav_helpdesk"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="12dp"
+            android:focusableInTouchMode="false"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/ageView18"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight=".7"
+                android:paddingBottom="9dp"
+                android:paddingLeft="8dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/baseline_get_app_white_36dp" />
+
+            <TextView
+                android:id="@+id/teiew71"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="2.3"
+                android:gravity="center_vertical"
+                android:text="Download"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/nav_menu_cart"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="12dp"
+            android:focusableInTouchMode="true"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/imageVie8"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight=".7"
+                android:paddingBottom="9dp"
+                android:paddingLeft="8dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/baseline_theaters_white_36dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="2.3"
+                android:gravity="center_vertical"
+                android:text="Index"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/nav_menu_authentication"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="12dp"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/imageVie"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight=".7"
+                android:paddingBottom="9dp"
+                android:paddingLeft="8dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/baseline_build_white_36dp" />
+
+            <TextView
+                android:id="@+id/textVie1"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="2.3"
+                android:gravity="center_vertical"
+                android:text="Settings"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/nav_share"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="12dp"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/imagew18"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight=".7"
+                android:paddingBottom="9dp"
+                android:paddingLeft="8dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/baseline_language_white_36dp" />
+
+            <TextView
+                android:id="@+id/teView71"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="2.3"
+                android:gravity="center_vertical"
+                android:text="VPN"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="15sp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+</RelativeLayout>

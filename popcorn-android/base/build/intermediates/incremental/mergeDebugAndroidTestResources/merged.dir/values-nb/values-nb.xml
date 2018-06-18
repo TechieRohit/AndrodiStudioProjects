@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="a_to_z">A - Å</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Gå til startsiden"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s – %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søk …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="about_app">Om</string>
+    <string name="about_message">Popcorn Time er resultatet av at mange utviklere og designere har puset sammen en haug med API\'er for å
+gjøre opplevelsen av å se torrents så enkel som mulig.\n\nVi er et Åpne kildekode-prosjekt. Vi er fra hele verden. Vi
+elsker filmene våre. Og gjett om vi elsker popcorn.</string>
+    <string name="about_series">Om</string>
+    <string name="accept">Aksepter</string>
+    <string name="advanced">Avansert</string>
+    <string name="aired">På lufta: %s</string>
+    <string name="auto_updates">Automatiske oppdateringer</string>
+    <string name="beaming">Stråling</string>
+    <string name="beaming_failed">Videoen kunne ikke spilles på din enhet for stråling. Har du lyst til å prøve igjen? Appen må kanskje laste ned flere deler før enheten er i stand til å spille av videoen.</string>
+    <string name="best_fit">Det som passer best</string>
+    <string name="blog">Blogg</string>
+    <string name="brightness">Lysstyrke</string>
+    <string name="browse">Bla igjennom</string>
+    <string name="cancel">Avbryt</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Koblet til <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Kobler til <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Koble fra"</string>
+    <string name="changelog">Endringslogg</string>
+    <string name="check_for_updates">Se etter oppdateringer</string>
+    <string name="choose_quality">Velg kvalitet</string>
+    <string name="close">Lukk</string>
+    <string name="comm_error">Kommunikasjonsfeil</string>
+    <string name="comm_message">Det oppstod en feil under henting av videoen. Dette kan være på grunn av nettverksproblemer eller YouTube-protokoller. Vennligst prøv igjen senere.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Slå på"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerer ikke med mindre du slår på Google Play-tjenester."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Slå på Google Play-tjenester"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan ikke kjøre uten Google Play-tjenester, som ikke er installert på enheten din."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installer Google Play-tjenester"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Tjenester-feil"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> har problemer med Google Play-tjenester. Prøv på nytt."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan ikke kjøre uten Google Play-tjenester, som ikke støttes av enheten din."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Oppdater"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kjører ikke med mindre du oppdaterer Google Play Tjenester."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Oppdater Google Play-tjenester"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kjører ikke uten Google Play-tjenester, som oppdateres akkurat nå."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Du må installere en ny versjon av Google Play-tjenester. Appen oppdateres automatisk om en kort stund."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Åpne på telefonen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Logg på"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Logg på med Google"</string>
+    <string name="confirm_tv">Vennligst bekreft tilkoblingen på TVen</string>
+    <string name="connected_to">Koblet til</string>
+    <string name="continuing">Fortsetter</string>
+    <string name="default_player">Standard videospiller</string>
+    <string name="default_subtitle_language">Standardspråk</string>
+    <string name="default_view">Standard oversikt</string>
+    <string name="device_language">Språk på enheten</string>
+    <string name="dht_limit">DHT-begrensing</string>
+    <string name="disabled">Deaktivert</string>
+    <string name="disconnect">Koble fra</string>
+    <string name="download_speed">Maksimal nedlastingshastighet</string>
+    <string name="drawer_close">Lukk navigasjonsskuff</string>
+    <string name="drawer_open">Åpne navigasjonsskuff</string>
+    <string name="enabled">Aktivert</string>
+    <string name="encountered_error">Videospilleren kom over en alvorlig feil. Videofilen kunne ikke åpnes og/eller spilles. Formatet ble ikke gjenkjent.</string>
+    <string name="encountered_error_title">Video feil oppstod</string>
+    <string name="ended">Endte</string>
+    <string name="enter_pairing_code">Skriv inn koden for sammenkobling på TVen</string>
+    <string name="episode">Episode</string>
+    <string name="episode_number_format">Episode %d</string>
+    <string name="error">Det oppstod en feil</string>
+    <string name="error_files">Feil: Kunne ikke skrive filer</string>
+    <string name="facebook">Facebook</string>
+    <string name="fastforward">Spol fremover</string>
+    <string name="fill">Fyll</string>
+    <string name="fit_horizontal">Tilpass horisontalt</string>
+    <string name="fit_vertical">Tilpass vertikalt</string>
+    <string name="forum">Forum</string>
+    <string name="general">Generelt</string>
+    <string name="genre_action">Action</string>
+    <string name="genre_adventure">Eventyr</string>
+    <string name="genre_all">Alle</string>
+    <string name="genre_animation">Animasjon</string>
+    <string name="genre_biography">Biografi</string>
+    <string name="genre_cars">Biler</string>
+    <string name="genre_children">Barn</string>
+    <string name="genre_comedy">Komedie</string>
+    <string name="genre_crime">Krim</string>
+    <string name="genre_dementia">Demens</string>
+    <string name="genre_demons">Demoner</string>
+    <string name="genre_documentary">Dokumentar</string>
+    <string name="genre_drama">Drama</string>
+    <string name="genre_ecchi">Ecchi</string>
+    <string name="genre_family">Familie</string>
+    <string name="genre_fantasy">Fantasy</string>
+    <string name="genre_film_noir">Film noir</string>
+    <string name="genre_game">Spill</string>
+    <string name="genre_game_show">Game Show</string>
+    <string name="genre_harem">Harem</string>
+    <string name="genre_history">Historie</string>
+    <string name="genre_home_garden">Hjem og Hage</string>
+    <string name="genre_horror">Skrekk</string>
+    <string name="genre_josei">Josei</string>
+    <string name="genre_kids">Barn</string>
+    <string name="genre_magic">Magi</string>
+    <string name="genre_martial_arts">Kampsport</string>
+    <string name="genre_mecha">Mekka</string>
+    <string name="genre_military">Militær</string>
+    <string name="genre_mini_series">Miniserier</string>
+    <string name="genre_music">Musikk</string>
+    <string name="genre_musical">Musikal</string>
+    <string name="genre_mystery">Mysterium</string>
+    <string name="genre_news">Nyheter</string>
+    <string name="genre_parody">Parodi</string>
+    <string name="genre_police">Politi</string>
+    <string name="genre_psychological">Psykologisk</string>
+    <string name="genre_reality">Reality</string>
+    <string name="genre_romance">Romantikk</string>
+    <string name="genre_samurai">Samurai </string>
+    <string name="genre_school">Skole</string>
+    <string name="genre_sci_fi">Sci-fi</string>
+    <string name="genre_seinen">Seinen</string>
+    <string name="genre_short">Kort</string>
+    <string name="genre_shoujo">Shoujo</string>
+    <string name="genre_shoujo_ai">Shoujo Ai</string>
+    <string name="genre_shounen">Shounen</string>
+    <string name="genre_shounen_ai">Shounen Ai</string>
+    <string name="genre_slice_of_life">Stykke av Livet</string>
+    <string name="genre_soap">Såpeserier</string>
+    <string name="genre_space">Verdensrommet</string>
+    <string name="genre_special_interest">For spesielt interesserte</string>
+    <string name="genre_sport">Sport</string>
+    <string name="genre_super_power">Superkrefter</string>
+    <string name="genre_supernatural">Overnaturlig </string>
+    <string name="genre_suspense">Spenning</string>
+    <string name="genre_talk_show">Talk Show</string>
+    <string name="genre_thriller">Thriller</string>
+    <string name="genre_vampire">Vampyr</string>
+    <string name="genre_war">Krig</string>
+    <string name="genre_western">Western</string>
+    <string name="genres">Sjangere</string>
+    <string name="git">Git</string>
+    <string name="google_plus">Google+</string>
+    <string name="grid_view">Rutedelt Bilde</string>
+    <string name="hardware_acceleration_error_message">En feil oppsto med maskinvareakselerasjonen. Vil du deaktivere og prøve igjen?</string>
+    <string name="hardware_acceleration_error_title">Feil med maskinvareakselerasjon</string>
+    <string name="health_bad">Dårlig</string>
+    <string name="health_excellent">Utmerket</string>
+    <string name="health_good">God</string>
+    <string name="health_info">Helse: %1$s, Seeds: %2$d, Peers: %3$d</string>
+    <string name="health_medium">Medium</string>
+    <string name="health_unknown">Ukjent</string>
+    <string name="hw_acceleration">Maskinvareakselerasjon</string>
+    <string name="hw_automatic">Automatisk</string>
+    <string name="hw_decoding">Kun dekoding</string>
+    <string name="hw_full">Full</string>
+    <string name="i18n_language">Språk i appen</string>
+    <string name="init_text">00:00</string>
+    <string name="internal_player">Intern</string>
+    <string name="last_check">Siste sjekk</string>
+    <string name="last_updated">SIST OPPDATERT</string>
+    <string name="later">Nei, senere</string>
+    <string name="latest_shows">Siste TV-serier</string>
+    <string name="leave">Tilbake</string>
+    <string name="leave_videoplayer_message">Er du sikker på at du ønsker å forlate videospilleren? %s vil slutte å spille.</string>
+    <string name="leave_videoplayer_title">Er du sikker?</string>
+    <string name="loading">Laster…</string>
+    <string name="loading_data">Laster inn…</string>
+    <string name="loading_details">Laster detaljer…</string>
+    <string name="loading_movies">Laster filmer…</string>
+    <string name="loading_shows">Laster programmer…</string>
+    <string name="loading_subs">Laster undertekster…</string>
+    <string name="magnet">Magnet</string>
+    <string name="max_connections">Maksimalt antall tilkoblinger</string>
+    <string name="minutes">min</string>
+    <string name="more">Mer</string>
+    <string name="more_movies">Mer Filmer</string>
+    <string name="more_shows">Flere Programmer</string>
+    <string name="movie">Film</string>
+    <string name="movie_results">Film Resultater</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Cast-ikonet"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Cast-knappen. Tilkoblet"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Cast-knappen. Kobler til"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Cast-knappen. Frakoblet"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Finner enheter"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Cast til"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Albumgrafikk"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Caster skjermen"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Lukk"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Skjul"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Koble fra"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Utvid"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Ingen informasjon er tilgjengelig"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Du har ikke valgt noen medier"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Sett på pause"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Spill av"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Stopp castingen"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Glidebryter for volum"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"System"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Enheter"</string>
+    <string name="network_message">Sjekk din internettforbindelse</string>
+    <string name="new_update">En ny versjon av Popcorn Time for Android TV er tilgjengelig. Ønsker du å oppdatere nå?</string>
+    <string name="no_data_found">Ingen data funnet</string>
+    <string name="no_default_set">Ingen standardspråk</string>
+    <string name="no_search_results">Ingen søkeresultater funnet</string>
+    <string name="no_subs">Ingen undertekster</string>
+    <string name="no_subs_available">Ingen undertekster tilgjengelig</string>
+    <string name="no_synopsis_available">Ingen beskrivelse tilgjengelig</string>
+    <string name="no_title_available">Ikke noe navn</string>
+    <string name="no_video_found">Ingen video ble funnet</string>
+    <string name="not_writable">Plassering er ikke skrivbar</string>
+    <string name="now">Ja</string>
+    <string name="now_playing">Spilles nå</string>
+    <string name="ok">OK</string>
+    <string name="oops">Oops</string>
+    <string name="open_source_licenses">Lisenser for åpen kildekode</string>
+    <string name="open_with">Åpne med</string>
+    <string name="original_size">Original</string>
+    <string name="overview_not_available">Beklager! Det finnes ingen tilgjengelig oversikt.</string>
+    <string name="pairing_tv">Sammenkobling med TV</string>
+    <string name="pause">Pause</string>
+    <string name="personal_settings">Personlige Innstillinger</string>
+    <string name="pixel_format">Tving video chroma</string>
+    <string name="play">Spill av</string>
+    <string name="play_pause_description">Play/Pause-knappen</string>
+    <string name="popular">POPULÆRT</string>
+    <string name="popular_header">Populære Videoer</string>
+    <string name="possibly_dangerous">Popcorn Time har blitt tuklet med, Venligst last ned en ny verson fra http://butterproject.org/</string>
+    <string name="preferences">Innstillinger</string>
+    <string name="press_install">Trykk for å installere</string>
+    <string name="quality">Kvalitet</string>
+    <string name="quality_1080">1080p</string>
+    <string name="quality_720">720p</string>
+    <string name="read_more">Les mer</string>
+    <string name="related_movies">Relaterte Videoer</string>
+    <string name="release_date">UTGIVELSESDATO</string>
+    <string name="reload_video">Start video på nytt</string>
+    <string name="remove_cache">Fjern hurtigbuffer når spilleren lukkes</string>
+    <string name="report_a_bug">Rapporter en feil</string>
+    <string name="restart_effect">Start appen på nytt for at endringene skal tre i kraft</string>
+    <string name="rewind">Spol tilbake</string>
+    <string name="rgb16">RGB 16-bit: bedre ytelse, lavere kvalitet</string>
+    <string name="rgb32">RGB 32-bit: standard chroma</string>
+    <string name="running">Kjører i bakgrunnen</string>
+    <string name="scale">Skala</string>
+    <string name="search">Søk</string>
+    <string name="search_hint">Tittel, år, skuespillere</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Søk"</string>
+    <string name="search_results">Søkeresultater</string>
+    <string name="searching">Søker…</string>
+    <string name="season">Sesong</string>
+    <string name="seeds">Delere</string>
+    <string name="select_beaming">Velg enhet for stråling</string>
+    <string name="select_file">Velg fil</string>
+    <string name="settings">Innstillinger</string>
+    <string name="show_results">TV-serie Resultater</string>
+    <string name="show_vpn">Vis VPN alternativet i menyen</string>
+    <string name="signature_invalid">App signatur ugyldig</string>
+    <string name="specials">Spesial</string>
+    <string name="start_external">Start ekstern avspiller</string>
+    <string name="starting_beam">Iverksetter videostråling…</string>
+    <string name="starting_buffering">Starter buffering</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">Stopp</string>
+    <string name="storage_automatic">Automatisk</string>
+    <string name="storage_choose">Velg plassering</string>
+    <string name="storage_location">Lagringssted</string>
+    <string name="stream_over_wifi_only">Kun strømming over Wi-Fi</string>
+    <string name="streaming_started">Strømming startet</string>
+    <string name="subtitle_color">Farge</string>
+    <string name="subtitle_language">Språk for undertekst</string>
+    <string name="subtitle_settings">Innstillinger for undertekster</string>
+    <string name="subtitle_size">Størrelse</string>
+    <string name="subtitle_stroke_color">Kantfarge</string>
+    <string name="subtitle_stroke_width">Kantbredde</string>
+    <string name="subtitle_timing">Timing av undertekst</string>
+    <string name="subtitles">Undertekster</string>
+    <string name="tap_to_close">Trykk for å lukke</string>
+    <string name="tap_to_open">Klikk for å åpne</string>
+    <string name="tap_to_resume">Trykk for å fortsette</string>
+    <string name="terms_and_conditions">Vilkår og Betingelser</string>
+    <string name="tests">Tester</string>
+    <string name="the_video">Videoen</string>
+    <string name="title_anime">Anime</string>
+    <string name="title_movies">Filmer</string>
+    <string name="title_shows">Programmer</string>
+    <string name="top_movies">Topp filmer</string>
+    <string name="top_rated">HØYT VURDERT</string>
+    <string name="top_shows">Topp TV-serier</string>
+    <string name="torrent_failed">Kunne ikke hente torrent</string>
+    <string name="torrents">Torrenter</string>
+    <string name="trailer">Trailer</string>
+    <string name="trending">TRENDER</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_error">Noe gikk galt </string>
+    <string name="unlimited">Ubegrenset</string>
+    <string name="update_available">Ny oppdatering tilgjengelig</string>
+    <string name="updates">Oppdateringer</string>
+    <string name="upload_speed">Maksimal opplastingshastighet</string>
+    <string name="version">Versjon</string>
+    <string name="version_pref">Versjon</string>
+    <string name="video_error_media_load_timeout">Tidsavbrudd ved lasting av media</string>
+    <string name="video_error_server_unaccessible">Medieserveren var ikke tilgjengelig</string>
+    <string name="video_error_unknown_error">Lasting av video feilet</string>
+    <string name="view_terms">Se vilkår</string>
+    <string name="volume">Volum</string>
+    <string name="vpn">VPN</string>
+    <string name="waiting_for_subtitles">Venter på undertekster</string>
+    <string name="waiting_torrent">Venter på torrent
+</string>
+    <string name="watch">Se</string>
+    <string name="watch_trailer">Se trailer</string>
+    <string name="watch_trailer_1">Se trailer</string>
+    <string name="watch_trailer_2">GRATIS</string>
+    <string name="website">Nettside</string>
+    <string name="wifi_only">Kun Wi-Fi</string>
+    <string name="wifi_only_message">Du kan bare strømme video over Wi-Fi. Dette kan du endre i preferansene dine om du nå vil strømme over mobilt nettverk.</string>
+    <string name="wrong_abi">Oi! Du bruker feil versjon av Popcorn Time for Android. Den riktige versjonen lastes ned nå hvis det er mulig. Hvis installasjonsprogrammet ikke starter i løpet av et minutt er ikke enheten støttet, eller så er forbindelsen til Internett brutt og det betyr at du bør prøve igjen senere. Hvis installasjonen feiler må du installere den riktige versjonen manuelt.</string>
+    <string name="year">ÅR</string>
+    <string name="yuv">YUV: best ytelse, men fungerer ikke alltid</string>
+</resources>

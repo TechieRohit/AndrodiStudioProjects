@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:F.\AndrodiStudio Projects\popcorn-android\connectsdk\core\libs\java-websocket-patch.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/connectsdk/core/libs/java-websocket-patch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

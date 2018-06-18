@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\raw\\changelog.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\raw\\changelog.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_failure.ogg",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\raw\\lb_voice_failure.ogg"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_open.ogg",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\raw\\lb_voice_open.ogg"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_no_input.ogg",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_success.ogg",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\raw\\lb_voice_success.ogg"
+    }
+]

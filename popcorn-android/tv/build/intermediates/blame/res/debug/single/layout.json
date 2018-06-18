@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_picker_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videoplayer.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\activity_videoplayer.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_datepicker_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\more_card_view.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\more_card_view.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\episode_row.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\episode_row.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_error_fragment.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_error_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_speech_orb.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_fragment.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_search_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_right.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_fragment.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_guidedactions.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.0.1\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_image_card_view.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview_logo.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_background_window.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_background_window.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_now_playing_bars.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_playback_now_playing_bars.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_fragment.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_browse_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid_fragment.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_column.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_picker_column.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_streamloading.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\fragment_streamloading.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_media_item_action.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_row_media_item_action.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_1_line.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_action_1_line.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_media_list_header.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_media_list_header.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls_row.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_rows_fragment.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_rows_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\activity_streamloading.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\activity_streamloading.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_header.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_row_header.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.0.1\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.0.1\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_title.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_browse_title.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_left.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_header.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_header.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_container.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_row_container.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_fragment.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_details_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.0.1\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\activity_movie_media_grid.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\activity_movie_media_grid.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_separator.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_picker_separator.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.0.1\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_2_lines.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_action_2_lines.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row_hovercard.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_title.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_list_row.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidance.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_guidance.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_divider.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_divider.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_content.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_media_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_row_media_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_onboarding_fragment.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_primary.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedbuttonactions.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_title_view.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_title_view.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_secondary.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dialog_changelog.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\popcorn-android\\base\\unspecified\\res\\layout\\fragment_dialog_changelog.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_videoplayer.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\fragment_videoplayer.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_bar.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_control_bar.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_item.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_details.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\activity_media_details.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dialog_fileselector.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\popcorn-android\\base\\unspecified\\res\\layout\\fragment_dialog_fileselector.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_media_item_number_view_flipper.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_media_item_number_view_flipper.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_playback_controls.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\guidance_type1.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\guidance_type1.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_orb.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_search_orb.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_bar.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_search_bar.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_vertical_grid.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_picker.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_section_header.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_section_header.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_background.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_overview.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_details_overview.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_description.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_details_description.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\season_header_row.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\layout\\season_header_row.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_shadow.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_shadow.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\casting_dialog_listitem.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\popcorn-android\\base\\unspecified\\res\\layout\\casting_dialog_listitem.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\25.0.1\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\layout\\lb_headers_fragment.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\layout\\lb_headers_fragment.xml"
+    }
+]

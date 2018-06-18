@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\menu\\activity_base.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\src\\main\\res\\menu\\activity_base.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\menu\\activity_player.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\src\\main\\res\\menu\\activity_player.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\menu\\activity_overview.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\src\\main\\res\\menu\\activity_overview.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\menu\\directory_chooser.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\net.rdrei.android.dirchooser\\library\\3.0\\res\\menu\\directory_chooser.xml"
+    }
+]

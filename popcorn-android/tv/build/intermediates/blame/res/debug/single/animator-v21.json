@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_in.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_description_fade_out.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\animator-v21\\lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_out.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\25.0.1\\res\\animator-v21\\lb_playback_bg_fade_out.xml"
+    }
+]

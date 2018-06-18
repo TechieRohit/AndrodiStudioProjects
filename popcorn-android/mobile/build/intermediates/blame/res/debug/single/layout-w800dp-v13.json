@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\layout-w800dp-v13\\fragment_moviedetail.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\src\\main\\res\\layout-w800dp\\fragment_moviedetail.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\layout-w800dp-v13\\fragment_dialog_episode.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\src\\main\\res\\layout-w800dp\\fragment_dialog_episode.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\layout-w800dp-v13\\activity_mediadetail.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\src\\main\\res\\layout-w800dp\\activity_mediadetail.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\layout-w800dp-v13\\fragment_showdetail.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\src\\main\\res\\layout-w800dp\\fragment_showdetail.xml"
+    }
+]

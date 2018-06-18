@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="a_to_z">A - Z</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="about_app">Névjegy</string>
+    <string name="about_message">A Popcorn Time! számtalan fejlesztő és dizájner munkájának eredménye, akik összeraktak pár API-t, hogy a torrentes filmnézés élményét a lehető legegyszerűbbé tegyék.\n\n
+Projektünk nyílt forráskódú. A világ minden pontjáról vannak közreműködőink. Szeretjük a filmeket, és legfőképp a popcornt.</string>
+    <string name="about_series">Névjegy</string>
+    <string name="accept">Elfogad</string>
+    <string name="advanced">Haladó</string>
+    <string name="aired">Vetítve: %s</string>
+    <string name="auto_updates">Automatikus frissítések</string>
+    <string name="beaming">Sugárzás</string>
+    <string name="beaming_failed">A videó nem lejátszható a sugárzó eszközön. Szeretné újrapróbálni? Az alkalmazásnak lehet, hogy több részt kell letöltenie mielőtt a készüléke le tudja játszani a videót.</string>
+    <string name="best_fit">Legjobban illeszkedő</string>
+    <string name="blog">Blog</string>
+    <string name="brightness">Fényerő</string>
+    <string name="browse">Böngészés </string>
+    <string name="cancel">Mégse</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Csatlakozva a következőhöz: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Csatlakozás a következőhöz: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Leválasztás"</string>
+    <string name="changelog">Változások listája</string>
+    <string name="check_for_updates">Frissítések keresése</string>
+    <string name="choose_quality">Válassz minőséget</string>
+    <string name="close">Bezárás</string>
+    <string name="comm_error">Kommunikációs hiba</string>
+    <string name="comm_message">Hiba történt a videó betöltése közben. Ezt okozhatják hálózati hibák vagy YouTube protokollok. Kérjük, próbálkozzon később.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Engedélyezés"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-szolgáltatások engedélyezése"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Telepítés"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"A Google Play-szolgáltatások beszerzése"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play-szolgáltatások – hiba"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Frissítés"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"A Google Play-szolgáltatások frissítése"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Megnyitás a telefonon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Bejelentkezés"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Bejelentkezés Google-fiókkal"</string>
+    <string name="confirm_tv">Erősítse meg a kapcsolatot a TV-n</string>
+    <string name="connected_to">Csatlakozva</string>
+    <string name="continuing">Folytatódik</string>
+    <string name="default_player">Alapértelmezett videó lejátszó</string>
+    <string name="default_subtitle_language">Alapértelmezett nyelv</string>
+    <string name="default_view">Alapértelmezett áttekintés</string>
+    <string name="device_language">Készülék nyelve</string>
+    <string name="dht_limit">DHT limit</string>
+    <string name="disabled">Tiltva</string>
+    <string name="disconnect">Kapcsolat bontása</string>
+    <string name="download_speed">Maximális letöltési sebesség</string>
+    <string name="drawer_close">Navigációs fiók bezárása</string>
+    <string name="drawer_open">Navigációs fiók kinyitása</string>
+    <string name="enabled">Engedélyezve</string>
+    <string name="encountered_error">A videó lejátszó súlyos hibába ütközött. A videó fájl nem nyitható meg és/vagy nem játszható le. A formátum nem felismerhető.</string>
+    <string name="encountered_error_title">Videó hiba történt</string>
+    <string name="ended">Befejeződött</string>
+    <string name="enter_pairing_code">Adja meg a párosítási kódot a TV-n</string>
+    <string name="episode">Epizód</string>
+    <string name="episode_number_format">Epizód %d</string>
+    <string name="error">Hiba</string>
+    <string name="error_files">Hiba: Nem írhatók a fájlok</string>
+    <string name="facebook">Facebook</string>
+    <string name="fastforward">Gyors előretekerés</string>
+    <string name="fill">Kitőlt</string>
+    <string name="fit_horizontal">Vízszintes illesztés</string>
+    <string name="fit_vertical">Függőleges illesztés</string>
+    <string name="forum">Fórum</string>
+    <string name="general">Általános</string>
+    <string name="genre_action">Akció</string>
+    <string name="genre_adventure">Kaland</string>
+    <string name="genre_all">Minden</string>
+    <string name="genre_animation">Animációs</string>
+    <string name="genre_biography">Életrajzi</string>
+    <string name="genre_cars">Autók</string>
+    <string name="genre_children">Gyermek</string>
+    <string name="genre_comedy">Vígjáték</string>
+    <string name="genre_crime">Krimi</string>
+    <string name="genre_dementia">Demencia</string>
+    <string name="genre_demons">Démonok</string>
+    <string name="genre_documentary">Dokumentumfilm</string>
+    <string name="genre_drama">Dráma</string>
+    <string name="genre_ecchi">Ecchi: könnyű szexuális anime</string>
+    <string name="genre_family">Családi</string>
+    <string name="genre_fantasy">Fantasy</string>
+    <string name="genre_film_noir">Film-Noir</string>
+    <string name="genre_game">Játék</string>
+    <string name="genre_game_show">Vetélkedő</string>
+    <string name="genre_harem">Harem</string>
+    <string name="genre_history">Történelmi</string>
+    <string name="genre_home_garden">Otthon és kert</string>
+    <string name="genre_horror">Horror</string>
+    <string name="genre_josei">Anime fiatal nőknek</string>
+    <string name="genre_kids">Gyerekek</string>
+    <string name="genre_magic">Mágia</string>
+    <string name="genre_martial_arts">Harcművészet</string>
+    <string name="genre_mecha">Különleges robotok anime</string>
+    <string name="genre_military">Katonai</string>
+    <string name="genre_mini_series">Minisorozat</string>
+    <string name="genre_music">Zene</string>
+    <string name="genre_musical">Musical</string>
+    <string name="genre_mystery">Misztikus</string>
+    <string name="genre_news">Hírek</string>
+    <string name="genre_parody">Paródia</string>
+    <string name="genre_police">Rendőr</string>
+    <string name="genre_psychological">Pszichológiai</string>
+    <string name="genre_reality">Valóságshow</string>
+    <string name="genre_romance">Romantikus</string>
+    <string name="genre_samurai">Szamuráj</string>
+    <string name="genre_school">Iskola</string>
+    <string name="genre_sci_fi">Sci-Fi</string>
+    <string name="genre_seinen">Anime fiatal férfiaknak</string>
+    <string name="genre_short">Rövidfilm</string>
+    <string name="genre_shoujo">Anime fiatal lányoknak</string>
+    <string name="genre_shoujo_ai">Lányszerelem Anime</string>
+    <string name="genre_shounen">Anime fiatal fiúknak</string>
+    <string name="genre_shounen_ai">Fiúszerelem anime</string>
+    <string name="genre_slice_of_life">Slice of Life</string>
+    <string name="genre_soap">Szappanopera</string>
+    <string name="genre_space">Űr</string>
+    <string name="genre_special_interest">Speciális témák</string>
+    <string name="genre_sport">Sport</string>
+    <string name="genre_super_power">Szuper Erő</string>
+    <string name="genre_supernatural">Természetfölötti</string>
+    <string name="genre_suspense">Felfüggeszés</string>
+    <string name="genre_talk_show">Talk Show</string>
+    <string name="genre_thriller">Thriller</string>
+    <string name="genre_vampire">Vámpír</string>
+    <string name="genre_war">Háborús</string>
+    <string name="genre_western">Western</string>
+    <string name="genres">Műfajok</string>
+    <string name="git">Git</string>
+    <string name="google_plus">Google+</string>
+    <string name="grid_view">Rács Nézet</string>
+    <string name="hardware_acceleration_error_message">Egy hiba történt a hardver gyorsítással. Szeretné kikapcsolni és újra megpróbálni?</string>
+    <string name="hardware_acceleration_error_title">HW gyorsítás hiba</string>
+    <string name="health_bad">Rossz</string>
+    <string name="health_excellent">Kiváló</string>
+    <string name="health_good">Jó</string>
+    <string name="health_info">Egészség: %1$s, Seed: %2$d, Peer: %3$d</string>
+    <string name="health_medium">Közepes</string>
+    <string name="health_unknown">Ismeretlen</string>
+    <string name="hw_acceleration">Hardveres gyorsítás</string>
+    <string name="hw_automatic">Automatikus</string>
+    <string name="hw_decoding">Csak dekódolás</string>
+    <string name="hw_full">Teljes</string>
+    <string name="i18n_language">Alkalmazás nyelve</string>
+    <string name="init_text">00:00</string>
+    <string name="internal_player">Belső</string>
+    <string name="last_check">Utolsó ellenőrzés</string>
+    <string name="last_updated">Utoljára frissítve</string>
+    <string name="later">Nem, később</string>
+    <string name="latest_shows">Legújabb TV sorozatok</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"/"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"Folytatás"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"Befejezés"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"Navigációs menü"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"Következő"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"KEZDŐ LÉPÉSEK"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"Feliratok letiltása"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"Feliratok engedélyezése"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"Gyors előretekerés"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"Előretekerés %1$dX"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"Jó minőségű lejátszás letiltása"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"Jó minőségű lejátszás engedélyezése"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"További műveletek"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"Szünet"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"Kép a képben mód indítása"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"Lejátszás"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"Összes ismétlése"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"Nincs ismétlés"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"Egy ismétlése"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"Visszatekerés"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"Visszatekerés %1$dX"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"Véletlenszerű lejátszás letiltása"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"Véletlenszerű lejátszás engedélyezése"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"Ugrás a következőre"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"Ugrás az előzőre"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"„Nem tetszik” értékelés visszavonása"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"„Nem tetszik” értékelés kiválasztása"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"„Tetszik” értékelés visszavonása"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"„Tetszik” értékelés kiválasztása"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"Keresés"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"Beszéljen a keresés indításához"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"Keresés itt: <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"Mondj valamit a kereséshez: <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">":"</string>
+    <string name="leave">Kilépés</string>
+    <string name="leave_videoplayer_message">Biztos, hogy elhagyja a videó lejátszót? %s lejátszása meg fog állni.</string>
+    <string name="leave_videoplayer_title">Biztos?</string>
+    <string name="loading">Betöltés…</string>
+    <string name="loading_data">Adatok betöltése…</string>
+    <string name="loading_details">Részletek betöltése…</string>
+    <string name="loading_movies">Filmek betöltése…</string>
+    <string name="loading_shows">Műsorok betöltése…</string>
+    <string name="loading_subs">Feliratok betöltése…</string>
+    <string name="magnet">Mágnes</string>
+    <string name="max_connections">Maximális összes kapcsolatok</string>
+    <string name="minutes">perc</string>
+    <string name="more">Továbbiak</string>
+    <string name="more_movies">Több Film</string>
+    <string name="more_shows">Több Műsor</string>
+    <string name="movie">Film</string>
+    <string name="movie_results">Film találatok</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Átküldés gomb"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Átküldés gomb. Csatlakoztatva"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Átküldés gomb. Csatlakozás"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Átküldés gomb. Kapcsolat bontva"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Eszközök keresése"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Átküldés ide"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Lemezborító"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Képernyőtartalom átküldése"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Bezárás"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Összecsukás"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Leválasztás"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Kibontás"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Nincs információ"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Nincs média kiválasztva"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Szüneteltetés"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Lejátszás"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Átküldés leállítása"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Hangerőszabályzó"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Rendszer"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Eszközök"</string>
+    <string name="network_message">Ellenőrizze internetkapcsolatát</string>
+    <string name="new_update">A Popcorn Time új verziója elérhető Android TV-re. Szeretné most frissíteni?</string>
+    <string name="no_data_found">Nem található adat</string>
+    <string name="no_default_set">Nincs alapértelmezett nyelv</string>
+    <string name="no_search_results">Nem található keresési eredmény</string>
+    <string name="no_subs">Nincs felirat</string>
+    <string name="no_subs_available">Nincs elérhető felirat</string>
+    <string name="no_synopsis_available">Nincs elérhető szinopszis</string>
+    <string name="no_title_available">Nincs név</string>
+    <string name="no_video_found">Nem található videó</string>
+    <string name="not_writable">A hely nem írható</string>
+    <string name="now">Igen</string>
+    <string name="now_playing">Most játszott</string>
+    <string name="ok">OK</string>
+    <string name="oops">Hoppá</string>
+    <string name="open_source_licenses">Nyílt forráskódú licencek</string>
+    <string name="open_with">Megnyitás ezzel</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"Keresési művelet"</string>
+    <string name="original_size">Eredeti</string>
+    <string name="overview_not_available">Elnézést! Nincs elérhető áttekintés.</string>
+    <string name="pairing_tv">Párosítás TV-vel</string>
+    <string name="pause">Szünet</string>
+    <string name="personal_settings">Személyes Beállítások</string>
+    <string name="pixel_format">Kényszerítse a videó színtelítettséget</string>
+    <string name="play">Lejátszás</string>
+    <string name="play_pause_description">Lejátszás Szünet gomb</string>
+    <string name="popular">NÉPSZERŰ</string>
+    <string name="popular_header">Népszerű videók</string>
+    <string name="possibly_dangerous">A Popcorn Time módosítva lett. Töltsön le egy új telepítőfájlt: http://butterproject.org/</string>
+    <string name="preferences">Beállítások</string>
+    <string name="press_install">Nyomja meg a telepítéshez</string>
+    <string name="quality">Minőség</string>
+    <string name="quality_1080">1080p</string>
+    <string name="quality_720">720p</string>
+    <string name="read_more">Bővebben</string>
+    <string name="related_movies">Kapcsolódó videók</string>
+    <string name="release_date">KIADÁS DÁTUMA</string>
+    <string name="reload_video">Videó újratöltése</string>
+    <string name="remove_cache">Gyorsítótár törlése lejátszó bezárásakor</string>
+    <string name="report_a_bug">Hiba jelentése</string>
+    <string name="restart_effect">Indítsa újra az alkalmazást a változtatások érvénybe léptetéséhez</string>
+    <string name="rewind">Visszatekerés</string>
+    <string name="rgb16">RGB 16-bit: jobb teljesítmény, rosszabb minőség</string>
+    <string name="rgb32">RGB 32-bit: alapértelmezett színtelítettség</string>
+    <string name="running">Futás a háttérben</string>
+    <string name="scale">Méretarány</string>
+    <string name="search">Keresés</string>
+    <string name="search_hint">Cím, év, színészek</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string name="search_results">Keresési Eredmények</string>
+    <string name="searching">Keresés…</string>
+    <string name="season">Évad</string>
+    <string name="seeds">seedek</string>
+    <string name="select_beaming">Válasszon készüléket a sugárzáshoz</string>
+    <string name="select_file">Fájl kiválasztása</string>
+    <string name="settings">Beállítások</string>
+    <string name="show_results">Sorozat találatok</string>
+    <string name="show_vpn">Mutassa a VPN opciót a menüben</string>
+    <string name="signature_invalid">App aláírás érvénytelen</string>
+    <string name="specials">Különlegességek</string>
+    <string name="start_external">Külső lejátszó indítása</string>
+    <string name="starting_beam">Videó sugárzás inicializálása…</string>
+    <string name="starting_buffering">Pufferelés kezdése</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">Megállít</string>
+    <string name="storage_automatic">Automatikus</string>
+    <string name="storage_choose">Hely választás</string>
+    <string name="storage_location">Tároló hely</string>
+    <string name="stream_over_wifi_only">Stream csak Wi-Fi-n</string>
+    <string name="streaming_started">Adatfolyam elkezdődött</string>
+    <string name="subtitle_color">Szín</string>
+    <string name="subtitle_language">Felirat nyelve</string>
+    <string name="subtitle_settings">Felirat beállítások</string>
+    <string name="subtitle_size">Méret</string>
+    <string name="subtitle_stroke_color">Körvonal szín</string>
+    <string name="subtitle_stroke_width">Körvonal szélesség</string>
+    <string name="subtitle_timing">Felirat időzítése</string>
+    <string name="subtitles">Feliratok</string>
+    <string name="tap_to_close">Érintse meg a bezáráshoz</string>
+    <string name="tap_to_open">Érintse meg a megnyitáshoz</string>
+    <string name="tap_to_resume">Érintse meg a folytatáshoz</string>
+    <string name="terms_and_conditions">Felhasználási feltételek</string>
+    <string name="tests">Tesztek</string>
+    <string name="the_video">A videó</string>
+    <string name="title_anime">Anime</string>
+    <string name="title_movies">Filmek</string>
+    <string name="title_shows">Műsorok</string>
+    <string name="top_movies">Legnépszerűbb Filmek</string>
+    <string name="top_rated">LEGJOBBRA ÉRTÉKELT</string>
+    <string name="top_shows">Legnépszerűbb TV Sorozatok</string>
+    <string name="torrent_failed">Torrent letöltése sikertelen</string>
+    <string name="torrents">Torrentek</string>
+    <string name="trailer">Előzetes</string>
+    <string name="trending">FELKAPOTT</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_error">Valami rosszul sült el</string>
+    <string name="unlimited">Korlátlan</string>
+    <string name="update_available">Új frissítés érhető el</string>
+    <string name="updates">Frissítések</string>
+    <string name="upload_speed">Maximális feltöltési sebesség</string>
+    <string name="version">Verzió</string>
+    <string name="version_pref">Verzió</string>
+    <string name="video_error_media_load_timeout">Média betöltése időtúllépés miatt megszakadt</string>
+    <string name="video_error_server_unaccessible">Média szerver nem volt elérhető</string>
+    <string name="video_error_unknown_error">Nem sikerült betölteni a videót</string>
+    <string name="view_terms">Feltételek megtekintése</string>
+    <string name="volume">Hangerő</string>
+    <string name="vpn">VPN</string>
+    <string name="waiting_for_subtitles">Várakozás feliratra</string>
+    <string name="waiting_torrent">Várakozás torrentre</string>
+    <string name="watch">Megnéz</string>
+    <string name="watch_trailer">Előzetes megnézése</string>
+    <string name="watch_trailer_1">Előzetes megnézése</string>
+    <string name="watch_trailer_2">INGYENES</string>
+    <string name="website">Weboldal</string>
+    <string name="wifi_only">csak Wi-Fi</string>
+    <string name="wifi_only_message">Csak Wi-Fi-n tud videót streamelni. Kikapcsolhatja a beállításoknál ha mobil hálózaton keresztűl akar streamelni.</string>
+    <string name="wrong_abi">O-ó! A Popcorn Time rossz verzióját használod Androidra. A jó verzió letöltődik most, ha lehetséges. Ha a telepítő nem indul el egy percen belül, akkor a készüléked nem támogatott, vagy az internet kapcsolatod megszakadt, ami azt jelenti, hogy meg kéne próbálnod később. Ha a telepítő meghibásodik, akkor manuálisan kell telepítened a jó verziót.</string>
+    <string name="year">ÉV</string>
+    <string name="yuv">YUV: legjobb teljesítmény de nem mindig működik</string>
+</resources>

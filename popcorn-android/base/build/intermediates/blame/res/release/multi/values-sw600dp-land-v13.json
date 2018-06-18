@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "F:\\AndrodiStudio Projects\\popcorn-android\\base\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\base\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.changeloglib\\changelog\\2.1.0\\res\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 56,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\base\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.changeloglib\\changelog\\2.1.0\\res\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 56,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

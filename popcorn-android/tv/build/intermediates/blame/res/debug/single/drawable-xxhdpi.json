@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_av_subs.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-xxhdpi\\ic_av_subs.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\butter_logo_placeholder.9.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-xxhdpi\\butter_logo_placeholder.9.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_av_rewind.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-xxhdpi\\ic_av_rewind.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\header_logo.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-xxhdpi\\header_logo.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_settings.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_av_forward.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-xxhdpi\\ic_av_forward.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_av_aspect_ratio.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-xxhdpi\\ic_av_aspect_ratio.png"
+    }
+]

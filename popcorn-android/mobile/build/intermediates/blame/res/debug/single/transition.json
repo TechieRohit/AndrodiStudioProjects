@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\transition\\movie_detail_exit.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\src\\main\\res\\transition\\movie_detail_exit.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\transition\\movie_detail_shared_exit.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\src\\main\\res\\transition\\movie_detail_shared_exit.xml"
+    }
+]

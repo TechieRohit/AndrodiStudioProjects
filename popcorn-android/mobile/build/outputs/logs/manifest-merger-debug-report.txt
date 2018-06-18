@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:2:1-460:12
+	package
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:4:5-27
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:5:5-35
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.1.9] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:10:22-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:12:5-76
+MERGED from [popcorn-android:base:unspecified] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\popcorn-android\base\unspecified\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:13:5-86
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:13:22-83
+uses-permission#android.permission.VIBRATE
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:15:22-65
+permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:17:17-72
+application
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:19:5-458:16
+MERGED from [de.hdodenhof:circleimageview:2.0.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.nirhart:parallaxscroll:1.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.github.nirhart\parallaxscroll\1.0\AndroidManifest.xml:11:5-20
+MERGED from [net.rdrei.android.dirchooser:library:3.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\net.rdrei.android.dirchooser\library\3.0\AndroidManifest.xml:9:5-13:19
+MERGED from [com.github.johnkil.android-robototextview:robototextview:2.4.3] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.github.johnkil.android-robototextview\robototextview\2.4.3\AndroidManifest.xml:8:5-20
+MERGED from [com.sothree.slidinguppanel:library:3.2.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.2.0\AndroidManifest.xml:9:5-20
+MERGED from [popcorn-android:base:unspecified] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\popcorn-android\base\unspecified\AndroidManifest.xml:11:5-13:19
+MERGED from [com.android.support:design:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.jakewharton.timber:timber:4.1.2] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.1.2\AndroidManifest.xml:8:5-20
+MERGED from [com.github.gabrielemariotti.changeloglib:changelog:2.1.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.github.gabrielemariotti.changeloglib\changelog\2.1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.koushikdutta.async:androidasync:2.1.9] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\AndroidManifest.xml:13:5-14:19
+MERGED from [popcorn-android:connectsdk:unspecified] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\popcorn-android\connectsdk\unspecified\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:mediarouter-v7:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:palette-v7:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-core-utils:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.jakewharton.hugo\hugo-runtime\1.2.1\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:24:9-41
+	android:supportsRtl
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:27:9-35
+	android:allowBackup
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:25:9-44
+		REJECTED from [net.rdrei.android.dirchooser:library:3.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\net.rdrei.android.dirchooser\library\3.0\AndroidManifest.xml:9:18-62
+	android:logo
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:23:9-41
+	tools:replace
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:20:9-38
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:26:9-48
+activity#butter.droid.activities.MainActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:29:3-124:20
+	android:label
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:31:13-34
+	android:exported
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:33:13-36
+	android:windowSoftInputMode
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:34:4-43
+	android:theme
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:32:4-56
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:30:4-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:37:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:39:13-49:29
+action#android.intent.action.VIEW
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:43:27-75
+data
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:45:17-48:45
+	android:host
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:46:21-37
+	android:scheme
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:48:21-42
+	android:pathPattern
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:47:21-55
+activity#butter.droid.activities.MediaDetailActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:127:9-135:14
+	android:parentActivityName
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:130:4-69
+	android:theme
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:129:4-46
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:128:4-62
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:132:4-134:60
+	android:value
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:134:5-57
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:133:5-51
+activity#butter.droid.activities.SearchActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:137:9-139:58
+	android:theme
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:139:13-55
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:138:13-66
+activity#butter.droid.activities.TermsActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:141:9-74
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:141:19-71
+activity#butter.droid.activities.AboutActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:143:9-145:49
+	android:label
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:145:13-46
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:144:13-65
+activity#butter.droid.activities.PreferencesActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:147:9-154:20
+	android:parentActivityName
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:149:13-78
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:148:13-71
+activity#butter.droid.activities.StreamLoadingActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:156:3-159:58
+	android:launchMode
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:157:13-44
+	android:theme
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:159:13-55
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:158:4-64
+activity#butter.droid.activities.VideoPlayerActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:161:3-436:20
+	android:screenOrientation
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:164:4-47
+	android:launchMode
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:162:13-44
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:163:4-62
+activity#butter.droid.activities.BeamPlayerActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:438:9-441:58
+	android:screenOrientation
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:441:13-55
+	android:theme
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:440:13-62
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:439:13-70
+activity#butter.droid.activities.TrailerPlayerActivity
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:443:3-445:50
+	android:screenOrientation
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:445:4-47
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:444:4-64
+service#butter.droid.base.torrent.TorrentService
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:447:9-76
+MERGED from [popcorn-android:base:unspecified] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\popcorn-android\base\unspecified\AndroidManifest.xml:12:9-76
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:447:18-73
+service#butter.droid.base.beaming.server.BeamServerService
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:448:9-86
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:448:18-83
+service#butter.droid.base.beaming.BeamPlayerNotificationService
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:449:9-91
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:449:18-88
+receiver#butter.droid.base.torrent.TorrentBroadcastReceiver
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:451:9-455:20
+	android:exported
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:451:85-109
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:451:19-84
+intent-filter#pct.droid.base.torrent.TorrentBroadcastReceiver.STOP
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:452:13-454:29
+action#pct.droid.base.torrent.TorrentBroadcastReceiver.STOP
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:453:17-95
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:453:25-92
+meta-data#com.google.android.gms.version
+ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:457:9-122
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:457:66-119
+	android:name
+		ADDED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml:457:20-65
+uses-sdk
+INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [de.hdodenhof:circleimageview:2.0.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.nirhart:parallaxscroll:1.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.github.nirhart\parallaxscroll\1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.larswerkman:HoloColorPicker:1.5] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.larswerkman\HoloColorPicker\1.5\AndroidManifest.xml:5:5-7:41
+MERGED from [net.rdrei.android.dirchooser:library:3.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\net.rdrei.android.dirchooser\library\3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.johnkil.android-robototextview:robototextview:2.4.3] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.github.johnkil.android-robototextview\robototextview\2.4.3\AndroidManifest.xml:6:5-43
+MERGED from [com.sothree.slidinguppanel:library:3.2.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.2.0\AndroidManifest.xml:7:5-43
+MERGED from [popcorn-android:base:unspecified] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\popcorn-android\base\unspecified\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.1.2] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.1.2\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton:butterknife:8.4.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.github.se-bastiaan:TorrentStream-Android:583a27bbf] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.github.se-bastiaan\TorrentStream-Android\583a27bbf\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.gabrielemariotti.changeloglib:changelog:2.1.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.github.gabrielemariotti.changeloglib\changelog\2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.koushikdutta.async:androidasync:2.1.9] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\AndroidManifest.xml:7:5-9:41
+MERGED from [popcorn-android:vlc:unspecified] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\popcorn-android\vlc\unspecified\AndroidManifest.xml:6:5-8:41
+MERGED from [popcorn-android:connectsdk:unspecified] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\popcorn-android\connectsdk\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-cast:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:palette-v7:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android-no-op\1.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.jakewharton.hugo\hugo-runtime\1.2.1\AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+		INJECTED from F:\AndrodiStudio Projects\popcorn-android\mobile\src\main\AndroidManifest.xml
+meta-data#string
+ADDED from [net.rdrei.android.dirchooser:library:3.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\net.rdrei.android.dirchooser\library\3.0\AndroidManifest.xml:10:9-12:38
+	android:value
+		ADDED from [net.rdrei.android.dirchooser:library:3.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\net.rdrei.android.dirchooser\library\3.0\AndroidManifest.xml:12:13-35
+	android:name
+		ADDED from [net.rdrei.android.dirchooser:library:3.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\net.rdrei.android.dirchooser\library\3.0\AndroidManifest.xml:11:13-34
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] F:\AndrodiStudio Projects\popcorn-android\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:19-85

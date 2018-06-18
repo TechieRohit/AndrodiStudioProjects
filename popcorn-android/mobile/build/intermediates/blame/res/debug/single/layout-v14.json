@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\layout-v14\\changelogrowheader_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.changeloglib\\changelog\\2.1.0\\res\\layout-v14\\changelogrowheader_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\layout-v14\\changelogrow_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.changeloglib\\changelog\\2.1.0\\res\\layout-v14\\changelogrow_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\layout-v14\\changelogrow_material_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.changeloglib\\changelog\\2.1.0\\res\\layout-v14\\changelogrow_material_layout.xml"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\layout-v14\\changelogrowheader_material_layout.xml",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\com.github.gabrielemariotti.changeloglib\\changelog\\2.1.0\\res\\layout-v14\\changelogrowheader_material_layout.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\filter_release_date.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-tvdpi\\filter_release_date.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\filter_updated.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-tvdpi\\filter_updated.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\filter_trending.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-tvdpi\\filter_trending.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\more_player_tests.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-tvdpi\\more_player_tests.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\filter_popular_now.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-tvdpi\\filter_popular_now.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\filter_a_to_z.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-tvdpi\\filter_a_to_z.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\filter_top_rated.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-tvdpi\\filter_top_rated.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\filter_genres.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\tv\\src\\main\\res\\drawable-tvdpi\\filter_genres.png"
+    }
+]

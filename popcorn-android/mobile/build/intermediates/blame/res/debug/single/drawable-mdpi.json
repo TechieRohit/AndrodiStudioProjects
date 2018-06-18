@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\navigation_up_light.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\net.rdrei.android.dirchooser\\library\\3.0\\res\\drawable-mdpi\\navigation_up_light.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\navigation_up.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\net.rdrei.android.dirchooser\\library\\3.0\\res\\drawable-mdpi\\navigation_up.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_create.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\net.rdrei.android.dirchooser\\library\\3.0\\res\\drawable-mdpi\\ic_action_create.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_create_light.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\net.rdrei.android.dirchooser\\library\\3.0\\res\\drawable-mdpi\\ic_action_create_light.png"
+    }
+]

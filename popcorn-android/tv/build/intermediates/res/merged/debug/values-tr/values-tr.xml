@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="a_to_z">A-Z</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AÇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="about_app">Hakkında</string>
+    <string name="about_message">Popcorn Time pek çok geliştiricinin ve tasarımcının bir araya gelerek torrent filmleri izlemeyi olabildiğince kolaylaştırmak için API\'ler oluşturmasıyla ortaya çıkmış bir üründür. Bu bir açık kaynak kodlu projedir. Biz dünyanın her yerinde bulunmaktayız. Biz filmleri seviyoruz. Ve çocuklar, biz patlamış mısırı seviyoruz.</string>
+    <string name="about_series">Hakkında</string>
+    <string name="accept">Kabul et</string>
+    <string name="advanced">Gelişmiş</string>
+    <string name="aired">Yayın Tarihi: %s</string>
+    <string name="auto_updates">Otomatik güncellemeler</string>
+    <string name="beaming">Işınlanıyor</string>
+    <string name="beaming_failed">Video ışınlanan cihazda oynatılamadı. Tekrar denemek ister misiniz? Cihazınızın videoyu oynatabilmesi için uygulamanın daha fazla parça indirmesi gerekebilir.</string>
+    <string name="best_fit">En iyi sığdırma</string>
+    <string name="blog">Blog</string>
+    <string name="brightness">Parlaklık</string>
+    <string name="browse">Gözat</string>
+    <string name="cancel">Cancel</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"<ns1:g id="NAME">%1$s</ns1:g> bağlantısı yapıldı"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"<ns1:g id="NAME">%1$s</ns1:g> bağlantısı yapılıyor"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Bağlantıyı kes"</string>
+    <string name="changelog">Değişiklik Listesi</string>
+    <string name="check_for_updates">Güncellemeleri kontrol et</string>
+    <string name="choose_quality">Kaliteyi seç</string>
+    <string name="close">Kapat</string>
+    <string name="comm_error">Bağlantı Hatası</string>
+    <string name="comm_message">Videonun alınması sırasında bir hata meydana geldi. Bu bağlantı problemlerinde ya da Youtube protokollerinden kaynaklanıyor olabilir. Lütfen daha sonra tekrar deneyin.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Etkinleştir"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play hizmetlerini etkinleştirmezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmaz."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play hizmetlerini etkinleştirin"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Yükle"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play hizmetlerini edinin"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Hizmetleri hatası"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Güncelle"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play hizmetlerini güncellemezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmayacak."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play hizmetlerini güncelleyin"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Telefonda aç"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Oturum aç"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google\'da oturum aç"</string>
+    <string name="confirm_tv">Lütfen TV\'nize bağlantıyı onaylayın</string>
+    <string name="connected_to">Bağlanıldı: </string>
+    <string name="continuing">Devam ediyor</string>
+    <string name="default_player">Varsayılan video oynatıcı</string>
+    <string name="default_subtitle_language">Varsayılan dil</string>
+    <string name="default_view">Varsayılan önizleme</string>
+    <string name="device_language">Cihaz dili</string>
+    <string name="dht_limit">DHT sınırı</string>
+    <string name="disabled">Devre dışı</string>
+    <string name="disconnect">Bağlantıyı Kes</string>
+    <string name="download_speed">En yüksek indirme hızı</string>
+    <string name="drawer_close">Kapalı navigasyon bölümü</string>
+    <string name="drawer_open">Açık navigasyon bölümü</string>
+    <string name="enabled">Etkin</string>
+    <string name="encountered_error">Video oynatıcısı bir dizi hatayla karşılaştı. Video dosyası açılamadı ve/veya oynatılamadı. Format geçerli değil.</string>
+    <string name="encountered_error_title">Video hatasıyla karşılaşıldı</string>
+    <string name="ended">Tamamlandı</string>
+    <string name="enter_pairing_code">TV\'deki Eşleşme Kodu\'nu girin</string>
+    <string name="episode">Bölüm</string>
+    <string name="episode_number_format">Bölüm: %d</string>
+    <string name="error">Hata</string>
+    <string name="error_files">Hata: Dosyalar yazılamadı</string>
+    <string name="facebook">Facebook</string>
+    <string name="fastforward">Hızlı ileri</string>
+    <string name="fill">Ekranı Doldur</string>
+    <string name="fit_horizontal">Yatay sığdır</string>
+    <string name="fit_vertical">Dikey sığdır</string>
+    <string name="forum">Forum</string>
+    <string name="general">Genel</string>
+    <string name="genre_action">Aksiyon</string>
+    <string name="genre_adventure">Macera</string>
+    <string name="genre_all">Hepsi</string>
+    <string name="genre_animation">Animasyon</string>
+    <string name="genre_biography">Biyografi</string>
+    <string name="genre_cars">Otomobil</string>
+    <string name="genre_children">Çocuklar</string>
+    <string name="genre_comedy">Komedi</string>
+    <string name="genre_crime">Suç</string>
+    <string name="genre_dementia">Akıl Hastalığı</string>
+    <string name="genre_demons">Şeytanlar</string>
+    <string name="genre_documentary">Belgesel</string>
+    <string name="genre_drama">Dram</string>
+    <string name="genre_ecchi">Ecchi</string>
+    <string name="genre_family">Aile</string>
+    <string name="genre_fantasy">Fantastik</string>
+    <string name="genre_film_noir">Kara Film</string>
+    <string name="genre_game">Oyun</string>
+    <string name="genre_game_show">Yarışma Programı</string>
+    <string name="genre_harem">Harem</string>
+    <string name="genre_history">Tarihi</string>
+    <string name="genre_home_garden">Ev ve Bahçe</string>
+    <string name="genre_horror">Korku</string>
+    <string name="genre_josei">Josei</string>
+    <string name="genre_kids">Çocuklar</string>
+    <string name="genre_magic">Sihir</string>
+    <string name="genre_martial_arts">Dövüş Sanatları</string>
+    <string name="genre_mecha">Mecha</string>
+    <string name="genre_military">Askeri</string>
+    <string name="genre_mini_series">Kısa Diziler</string>
+    <string name="genre_music">Müzik</string>
+    <string name="genre_musical">Müzikal</string>
+    <string name="genre_mystery">Gizem</string>
+    <string name="genre_news">Haberler</string>
+    <string name="genre_parody">Parodi</string>
+    <string name="genre_police">Polis</string>
+    <string name="genre_psychological">Psikolojik</string>
+    <string name="genre_reality">Reality Şov</string>
+    <string name="genre_romance">Romantik</string>
+    <string name="genre_samurai">Samuray</string>
+    <string name="genre_school">Okul</string>
+    <string name="genre_sci_fi">Bilim Kurgu</string>
+    <string name="genre_seinen">Seinen</string>
+    <string name="genre_short">Kısa Film</string>
+    <string name="genre_shoujo">Shoujo</string>
+    <string name="genre_shoujo_ai">Shoujo Ai</string>
+    <string name="genre_shounen">Shounen</string>
+    <string name="genre_shounen_ai">Shounen Ai</string>
+    <string name="genre_slice_of_life">Hayattan Bir Parça</string>
+    <string name="genre_soap">Pembe Dizi</string>
+    <string name="genre_space">Uzay</string>
+    <string name="genre_special_interest">Özel İlgi Alanları</string>
+    <string name="genre_sport">Spor</string>
+    <string name="genre_super_power">Süper Güçler</string>
+    <string name="genre_supernatural">Doğaüstü</string>
+    <string name="genre_suspense">Gerilim</string>
+    <string name="genre_talk_show">Talk Şov</string>
+    <string name="genre_thriller">Polisiye</string>
+    <string name="genre_vampire">Vampir</string>
+    <string name="genre_war">Savaş</string>
+    <string name="genre_western">Vahşi Batı</string>
+    <string name="genres">Türler</string>
+    <string name="git">Git</string>
+    <string name="google_plus">Google+</string>
+    <string name="grid_view">Tablo Görünümü</string>
+    <string name="hardware_acceleration_error_message">Donanım hızlandırmada hata oluştu. Donanım hızlandırmayı devre dışı bırakıp tekrar denemek ister misiniz?</string>
+    <string name="hardware_acceleration_error_title">Donanım hızlandırma hatası</string>
+    <string name="health_bad">Kötü</string>
+    <string name="health_excellent">Mükemmel</string>
+    <string name="health_good">İyi</string>
+    <string name="health_info">Sağlık: %1$s, Gönderenler: %2$d, Eşler: %3$d</string>
+    <string name="health_medium">Orta</string>
+    <string name="health_unknown">Bilinmiyor</string>
+    <string name="hw_acceleration">Donanım hızlandırması</string>
+    <string name="hw_automatic">Otomatik</string>
+    <string name="hw_decoding">Yalnızca kod çözme</string>
+    <string name="hw_full">Tam</string>
+    <string name="i18n_language">Uygulama dili</string>
+    <string name="init_text">00:00</string>
+    <string name="internal_player">Dahili</string>
+    <string name="last_check">Son kontrol</string>
+    <string name="last_updated">SON GÜNCELLENENLER</string>
+    <string name="later">Hayır, sonra</string>
+    <string name="latest_shows">Son Diziler</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"."</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"Devam"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"Son"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"Gezinme menüsü"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"Sonraki"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"BAŞLA"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"Altyazıları Devre Dışı Bırak"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"Altyazıları Etkinleştir"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"İleri Sar"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"%1$dX İleri Sar"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"Yüksek Kalitede Oynatmayı Devre Dışı Bırak"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"Yüksek Kalitede Oynatmayı Etkinleştir"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"Diğer İşlemler"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"Duraklat"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"Resim İçinde Resim Moduna Geç"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"Oynat"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"Tümünü Tekrarla"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"Hiçbirini Tekrarlama"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"Birini Tekrarla"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"Geri Sar"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"%1$dX Geri Sar"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"Karıştırmayı Devre Dışı Bırak"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"Karıştırmayı Etkinleştir"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"Sonrakine Atla"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"Öncekine Atla"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"Beğenmeme Seçimini Kaldır"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"Beğenmemeyi Seç"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"Beğenme Seçimini Kaldır"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"Beğenmeyi Seç"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"Ara"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"Arama yapmak için konuşun"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"Ara: <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"Konuşarak <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> araması yapın"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">":"</string>
+    <string name="leave">Ayrıl</string>
+    <string name="leave_videoplayer_message">Video oynatıcıdan çıkmak istediğinize emin misiniz? %s yürütmesi duracak.</string>
+    <string name="leave_videoplayer_title">Emin misiniz?</string>
+    <string name="loading">Yükleniyor…</string>
+    <string name="loading_data">Veri yükleniyor…</string>
+    <string name="loading_details">Detaylar yükleniyor…</string>
+    <string name="loading_movies">Filmler yükleniyor…</string>
+    <string name="loading_shows">Videolar yükleniyor…</string>
+    <string name="loading_subs">Altyazılar yükleniyor…</string>
+    <string name="magnet">Magnet</string>
+    <string name="max_connections">En fazla bağlantı sayısı</string>
+    <string name="minutes">min</string>
+    <string name="more">Daha fazla</string>
+    <string name="more_movies">Daha fazla film</string>
+    <string name="more_shows">Daha fazla dizi</string>
+    <string name="movie">Film</string>
+    <string name="movie_results">Film Sonuçları</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Yayın düğmesi"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Yayınla düğmesi. Bağlandı"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Yayınla düğmesi. Bağlanıyor"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Yayınla düğmesi. Bağlantı kesildi"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Cihazlar bulunuyor"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Şuraya yayınla:"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Albüm kapağı"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Ekran yayınlanıyor"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Kapat"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Daralt"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Bağlantıyı kes"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Genişlet"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Bilgi yok"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Medya seçilmedi"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Duraklat"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Oynat"</string>
+    <string msgid="4570331844078181931" name="mr_controller_stop">"Yayını durdur"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Ses düzeyi kaydırma çubuğu"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Cihazlar"</string>
+    <string name="network_message">İnternet bağlantınızı kontrol edin</string>
+    <string name="new_update">Popcorn Time\'ın Android TV için yeni bir versiyonu kullanılabilir durumda. Şimdi güncellemek ister misiniz?</string>
+    <string name="no_data_found">Veri bulunamadı</string>
+    <string name="no_default_set">Varsayılan dil yok</string>
+    <string name="no_search_results">Arama sonucu bulunamadı</string>
+    <string name="no_subs">Altyazı mevcut değil</string>
+    <string name="no_subs_available">Altyazı mevcut değil</string>
+    <string name="no_synopsis_available">Özet mevcut değil</string>
+    <string name="no_title_available">Ad yok</string>
+    <string name="no_video_found">Hiçbir video bulunamadı</string>
+    <string name="not_writable">Dizin yazılabilir değil</string>
+    <string name="now">Evet</string>
+    <string name="now_playing">Oynatılıyor</string>
+    <string name="ok">Tamam</string>
+    <string name="oops">Hayda</string>
+    <string name="open_source_licenses">Açık kaynak lisansları</string>
+    <string name="open_with">Şununla aç:</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"Arama İşlemi"</string>
+    <string name="original_size">Orijinal </string>
+    <string name="overview_not_available">Üzgünüz! Hiç gözden geçirme bilgisi yok.</string>
+    <string name="pairing_tv">TV ile Eşleştirme</string>
+    <string name="pause">Durdur</string>
+    <string name="personal_settings">Kişisel Ayarlar</string>
+    <string name="pixel_format">Video chroma\'yı zorla</string>
+    <string name="play">Oynat</string>
+    <string name="play_pause_description">Oynat Duraklat Butonu</string>
+    <string name="popular">POPÜLER</string>
+    <string name="popular_header">Popüler Videolar</string>
+    <string name="possibly_dangerous">Popcorn Time dosyası bozulmuş. Lütfen yeni bir kurulum dosyasını http://butterproject.org/ adresinden indirin</string>
+    <string name="preferences">Ayarlar</string>
+    <string name="press_install">Yüklemek için tıklayın</string>
+    <string name="quality">Kalite</string>
+    <string name="quality_1080">1080p</string>
+    <string name="quality_720">720p</string>
+    <string name="read_more">Daha fazla oku</string>
+    <string name="related_movies">İlgili Videolar</string>
+    <string name="release_date">Yayınlanma Tarihi</string>
+    <string name="reload_video">Videoyu yeniden yükle</string>
+    <string name="remove_cache">Oynatıcıyı kapatınca önbelleği temizle</string>
+    <string name="report_a_bug">Hata bildir</string>
+    <string name="restart_effect">Değişikliklerin uygulanması için uygulamayı yeniden başlat</string>
+    <string name="rewind">Geri</string>
+    <string name="rgb16">RGB 16-bit: daha iyi performans, daha düşük kalite</string>
+    <string name="rgb32">RGB 32-bit: varsayılan chroma</string>
+    <string name="running">Arka planda Çalışıyor</string>
+    <string name="scale">Ölçekle</string>
+    <string name="search">Ara</string>
+    <string name="search_hint">Başlık, yıl, oyuncular</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
+    <string name="search_results">Arama Sonuçları</string>
+    <string name="searching">Aranıyor…</string>
+    <string name="season">Sezon</string>
+    <string name="seeds">Göndericiler</string>
+    <string name="select_beaming">Işınlamak için bir cihaz seçin.</string>
+    <string name="select_file">Dosya seçin</string>
+    <string name="settings">Ayarlar</string>
+    <string name="show_results">Dizi Sonuçları</string>
+    <string name="show_vpn">VPN seçeneğini menüde göster</string>
+    <string name="signature_invalid">Uygulamanın imzası geçersiz</string>
+    <string name="specials">Özeller</string>
+    <string name="start_external">Harici oynatıcıyı başlat</string>
+    <string name="starting_beam">Video ışınlaması başlıyor…</string>
+    <string name="starting_buffering">Önbelleğe alma başlatılıyor</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">Dur</string>
+    <string name="storage_automatic">Otomatik</string>
+    <string name="storage_choose">Dizin seç</string>
+    <string name="storage_location">Depolama dizini</string>
+    <string name="stream_over_wifi_only">Sadece Wi-Fi üzerinden yayın yap</string>
+    <string name="streaming_started">Yayın başladı</string>
+    <string name="subtitle_color">Renk</string>
+    <string name="subtitle_language">Altyazı dili</string>
+    <string name="subtitle_settings">Altyazı ayarları</string>
+    <string name="subtitle_size">Boyut</string>
+    <string name="subtitle_stroke_color">Kenar rengi</string>
+    <string name="subtitle_stroke_width">Kenar kalınlığı</string>
+    <string name="subtitle_timing">Altyazı zamanlaması</string>
+    <string name="subtitles">Altyazılar</string>
+    <string name="tap_to_close">Kapatmak İçin Dokunun</string>
+    <string name="tap_to_open">Açmak için dokun</string>
+    <string name="tap_to_resume">Devam etmek için dokun</string>
+    <string name="terms_and_conditions">Hükümler ve Koşullar</string>
+    <string name="tests">Testler</string>
+    <string name="the_video">Video</string>
+    <string name="title_anime">Anime</string>
+    <string name="title_movies">Filmler</string>
+    <string name="title_shows">Diziler</string>
+    <string name="top_movies">En Çok İzlenen Filmler</string>
+    <string name="top_rated">En Çok Oylanan</string>
+    <string name="top_shows">En Çok İzlenen Diziler</string>
+    <string name="torrent_failed">Torrenti getirirken hata oluştu</string>
+    <string name="torrents">Torrentler</string>
+    <string name="trailer">Fragman</string>
+    <string name="trending">YÜKSELEN</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_error">Bir şeyler ters gitti</string>
+    <string name="unlimited">Sınırsız</string>
+    <string name="update_available">Yeni güncelleme bulundu</string>
+    <string name="updates">Güncellemeler</string>
+    <string name="upload_speed">En yüksek gönderme hızı</string>
+    <string name="version">Sürüm</string>
+    <string name="version_pref">Sürüm</string>
+    <string name="video_error_media_load_timeout">Medya yüklemesi zaman aşımına uğradı</string>
+    <string name="video_error_server_unaccessible">Medya sunucusu erişilemez durumda</string>
+    <string name="video_error_unknown_error">Video yüklemesi başarısız</string>
+    <string name="view_terms">Hükümleri göster</string>
+    <string name="volume">Ses</string>
+    <string name="vpn">VPN</string>
+    <string name="waiting_for_subtitles">Altyazı bekleniyor</string>
+    <string name="waiting_torrent">Torrent bekleniyor</string>
+    <string name="watch">İzle</string>
+    <string name="watch_trailer">Fragmanı İzle</string>
+    <string name="watch_trailer_1">Fragmanı İzle</string>
+    <string name="watch_trailer_2">ÜCRETSİZ</string>
+    <string name="website">Website</string>
+    <string name="wifi_only">Sadece Wi-Fi</string>
+    <string name="wifi_only_message">Sadece Wi-Fi üzerinden yayın yapabilirisiniz. Eğer telefon bağlantısı ile yayın yapmak istiyorsanız bu özelliği ayarlardan kapatabilirsiniz.</string>
+    <string name="wrong_abi">Popcorn Time for Android\'in yanlış sürümünü kullanıyorsunuz.  Doğru sürüm şu anda indiriliyor. Eğer kurulum bir dakika içinde başlamazsa, cihazınız desteklenmiyor olabilir veya internet bağlantınızda problem olabilir. Bu durumda daha sonra tekrar denemelisiniz. Eğer kurulum başarısız olursa, doğru sürümü elle yüklemelisiniz.</string>
+    <string name="year">Yıl</string>
+    <string name="yuv">YUV: en iyi performans ama her zaman çalışmaz</string>
+</resources>

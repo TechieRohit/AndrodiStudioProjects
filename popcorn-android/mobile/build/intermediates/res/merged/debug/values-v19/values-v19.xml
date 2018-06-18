@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Butter" parent="Theme.Base">
+        <item name="android:seekBarStyle">@style/Theme.Butter.SeekBar</item>
+        <item name="android:progressBarStyleHorizontal">@style/Theme.Butter.ProgressBar</item>
+        <item name="android:ratingBarStyle">@style/Theme.Butter.RatingBar</item>
+    </style>
+    <style name="Theme.Butter.TransparentStatusBar" parent="Theme.Butter">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+</resources>

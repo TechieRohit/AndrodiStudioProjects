@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-gl\\values-gl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 135,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 288,
+                        "endColumn": 135,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 139,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 424,
+                        "endColumn": 139,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 381,
+                    "endColumn": 98,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 564,
+                        "endColumn": 94,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 107,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 103,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endColumn": 194,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 387,
+                        "endColumn": 194,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 130,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 582,
+                        "endColumn": 126,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 109,
+                    "endOffset": 1019
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 709,
+                        "endColumn": 105,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1024,
+                    "endColumn": 217,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 815,
+                        "endColumn": 217,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 133,
+                    "endOffset": 1371
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1033,
+                        "endColumn": 129,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1376,
+                    "endColumn": 137,
+                    "endOffset": 1509
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1163,
+                        "endColumn": 133,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1514,
+                    "endColumn": 192,
+                    "endOffset": 1702
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 192,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1707,
+                    "endColumn": 229,
+                    "endOffset": 1932
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1297,
+                        "endColumn": 229,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1937,
+                    "endColumn": 110,
+                    "endOffset": 2043
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1527,
+                        "endColumn": 106,
+                        "endOffset": 1633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2048,
+                    "endColumn": 199,
+                    "endOffset": 2243
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1634,
+                        "endColumn": 199,
+                        "endOffset": 1833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2248,
+                    "endColumn": 136,
+                    "endOffset": 2380
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1834,
+                        "endColumn": 132,
+                        "endOffset": 1966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2385,
+                    "endColumn": 223,
+                    "endOffset": 2604
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1967,
+                        "endColumn": 223,
+                        "endOffset": 2190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2609,
+                    "endColumn": 181,
+                    "endOffset": 2786
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2191,
+                        "endColumn": 177,
+                        "endOffset": 2368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2791,
+                    "endColumn": 96,
+                    "endOffset": 2883
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2369,
+                        "endColumn": 92,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2888,
+                    "endColumn": 98,
+                    "endOffset": 2982
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2462,
+                        "endColumn": 94,
+                        "endOffset": 2556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2987,
+                    "endColumn": 113,
+                    "endOffset": 3096
+                },
+                "from": {
+                    "file": "F:\\AndrodiStudio Projects\\popcorn-android\\connectsdk\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-gl\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2557,
+                        "endColumn": 109,
+                        "endOffset": 2666
+                    }
+                }
+            }
+        ]
+    }
+]

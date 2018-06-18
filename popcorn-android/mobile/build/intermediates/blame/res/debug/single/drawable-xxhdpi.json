@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_create_light.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\net.rdrei.android.dirchooser\\library\\3.0\\res\\drawable-xxhdpi\\ic_action_create_light.png"
+    },
+    {
+        "merged": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_create.png",
+        "source": "F:\\AndrodiStudio Projects\\popcorn-android\\mobile\\build\\intermediates\\exploded-aar\\net.rdrei.android.dirchooser\\library\\3.0\\res\\drawable-xxhdpi\\ic_action_create.png"
+    }
+]

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="de.timroes:aXMLRPC:1.8.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.timroes/aXMLRPC/1.8.1/e9fd662c6ea0266092bd65fe40cd41d7c744f091/aXMLRPC-1.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.timroes/aXMLRPC/1.8.1/7e11063ac775d2c8a4909e668424fe58c00eb2f9/aXMLRPC-1.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

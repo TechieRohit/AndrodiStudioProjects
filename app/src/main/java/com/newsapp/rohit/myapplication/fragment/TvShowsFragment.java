@@ -2,6 +2,7 @@ package com.newsapp.rohit.myapplication.fragment;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -40,7 +41,7 @@ public class TvShowsFragment extends Fragment {
 
     RecyclerTvShowsAdapter movieSource;
 
-    //SwipeRefreshLayout swipeRefreshLayout;
+    SwipeRefreshLayout swipeRefreshLayout;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -48,14 +49,20 @@ public class TvShowsFragment extends Fragment {
         // Inflate the layout for this fragment
         View view =  inflater.inflate(R.layout.fragment_tv_shows, container, false);
 
-
         mRecyclerView = (RecyclerView)view.findViewById(R.id.recyclerView);
         mRecyclerView.setLayoutManager(new GridLayoutManager(getActivity(),3));
         movieSource = new RecyclerTvShowsAdapter(getActivity(),mArrayList);
         mRecyclerView.setAdapter(movieSource);
         mRecyclerView.setNestedScrollingEnabled(true);
+        swipeRefreshLayout = (SwipeRefreshLayout)view.findViewById(R.id.swipeRefresh);
 
         makeRequest();
+        swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                makeRequest();
+            }
+        });
 
         return view;
     }
@@ -64,8 +71,9 @@ public class TvShowsFragment extends Fragment {
      * Making a request to the server for response
      */
     private void makeRequest() {
-
-        JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, Constants.MOVIES,
+        swipeRefreshLayout.setRefreshing(true);
+        swipeRefreshLayout.setColorSchemeColors(getResources().getColor(R.color.blue_500));
+        JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, Constants.TV_SHOWS,
                 new Response.Listener<JSONObject>() {
                     @Override
                     public void onResponse(JSONObject response) {
@@ -76,9 +84,8 @@ public class TvShowsFragment extends Fragment {
             public void onErrorResponse(VolleyError error) {
                 Toast.makeText(getActivity(),"Something went wrong !\n" +
                         "Check your internet connection",Toast.LENGTH_LONG).show();
-
                 Log.d("MOVIE_ITEMS", error.toString());
-                //swipeRefreshLayout.setRefreshing(false);
+                swipeRefreshLayout.setRefreshing(false);
             }
         });
 
@@ -92,19 +99,15 @@ public class TvShowsFragment extends Fragment {
      * here the data is put into an ArrayList and notifyDataSetChanged is called to notify the adapter
      */
     private void parseResponse(JSONObject response) {
-
         mArrayList.clear();
 
         try {
-            JSONArray jsonArray = response.getJSONArray("movieposter");
+            JSONArray jsonArray = response.getJSONArray("seasonposter");
 
             int x = 0;
-
-            while ( x!=2  ) {
+            while ( x < 2  ) {
                 for (int i = 0; i<jsonArray.length(); i++) {
                     JSONObject arrayObj = jsonArray.getJSONObject(i);
-
-
                     String sourceId = arrayObj.getString("id");
                     String sourceLikes = arrayObj.getString("likes");
                     String urlToImage = arrayObj.getString("url");
@@ -113,8 +116,6 @@ public class TvShowsFragment extends Fragment {
                 }
                 x++;
             }
-
-
         } catch (JSONException e) {
             e.printStackTrace();
             Toast.makeText(getActivity(),"" + e.toString(),Toast.LENGTH_LONG).show();
@@ -122,7 +123,7 @@ public class TvShowsFragment extends Fragment {
 
         //Notifying the adapter that the data has been changed
         movieSource.notifyDataSetChanged();
-        //swipeRefreshLayout.setRefreshing(false);
+        swipeRefreshLayout.setRefreshing(false);
     }
 
 }

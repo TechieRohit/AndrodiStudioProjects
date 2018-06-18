@@ -56,7 +56,6 @@ public class MoviesFragment extends Fragment {
         swipeRefreshLayout = (SwipeRefreshLayout)view.findViewById(R.id.swipeRefresh);
 
         makeRequest();
-
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
@@ -74,7 +73,6 @@ public class MoviesFragment extends Fragment {
     private void makeRequest() {
         swipeRefreshLayout.setRefreshing(true);
         swipeRefreshLayout.setColorSchemeColors(getResources().getColor(R.color.blue_500));
-
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, Constants.MOVIES,
                 new Response.Listener<JSONObject>() {
                     @Override
@@ -108,7 +106,6 @@ public class MoviesFragment extends Fragment {
             JSONArray jsonArray = response.getJSONArray("movieposter");
 
             int x = 0;
-
             while ( x < 8 ) {
                 for (int i = 0; i<jsonArray.length(); i++) {
                     JSONObject arrayObj = jsonArray.getJSONObject(i);
@@ -121,7 +118,6 @@ public class MoviesFragment extends Fragment {
                 }
                 x++;
             }
-
         } catch (JSONException e) {
             e.printStackTrace();
             Toast.makeText(getActivity(),"Something went wrong with the server",Toast.LENGTH_LONG).show();
@@ -153,7 +149,6 @@ public class MoviesFragment extends Fragment {
                     case RecyclerView.SCROLL_STATE_SETTLING:
                         System.out.println("Scroll Settling");
                         break;
-
                 }
 
             }

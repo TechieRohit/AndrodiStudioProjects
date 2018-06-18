@@ -1,4 +1,4 @@
-#Sun Jun 17 19:37:40 GMT-08:00 2018
+#Sun Jun 17 22:50:20 GMT-08:00 2018
 base.0=F\:\\AndrodiStudio Projects\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 path.0=classes.dex
 renamed.0=classes.dex

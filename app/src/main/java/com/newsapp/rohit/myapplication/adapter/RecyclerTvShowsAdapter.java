@@ -59,8 +59,8 @@ public class RecyclerTvShowsAdapter extends RecyclerView.Adapter<RecyclerTvShows
      */
     @Override
     public void onBindViewHolder(@NonNull RecyclerTvShows holder, int position) {
-
-        Glide.with(mContext).load(showList.get(position).getmImageUrl()).into(holder.imageView);
+        Glide.with(mContext).load(showList.get(position).getmImageUrl()).
+                placeholder(R.drawable.popcorn_time_placeholder).into(holder.imageView);
     }
 
     class RecyclerTvShows extends RecyclerView.ViewHolder {

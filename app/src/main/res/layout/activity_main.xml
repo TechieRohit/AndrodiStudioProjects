@@ -44,7 +44,7 @@
                 <ImageView
                     android:layout_toLeftOf="@+id/notification"
                     android:layout_centerVertical="true"
-                    android:padding="8dp"
+                    android:padding="9.2dp"
                     android:layout_marginRight="5dp"
                     android:id="@+id/search"
                     android:layout_width="40dp"

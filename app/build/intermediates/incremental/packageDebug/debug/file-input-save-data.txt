@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jun 17 19:37:43 GMT-08:00 2018
+#Sun Jun 17 22:52:32 GMT-08:00 2018
 2.base=F\:\\AndrodiStudio Projects\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 5.set=DEX
 0.path=classes.dex
